@@ -1,0 +1,41 @@
+theme: jekyll-theme-architect
+
+
+title: 深圳DIY社区
+description: Welcome to SZDIY/Maker Community
+
+
+sidebar:
+  items:
+    - title: Intro 社区介绍
+      link: /intro
+
+    - title: Meetup 聚会
+      link: /meetup
+
+    - title: Participate 如何参与
+      link: /participate
+
+    - title: Membership 会员制度
+      link: /membership
+
+    - title: Tools 工具列表
+      link: /tools
+
+    - title: Projects 项目
+      link: /projects
+
+    - title: Certificated Members 认证会员
+      link: /members
+
+    - title: Culture 社区文化
+      link: /culture
+
+    - title: Sponsors 赞助
+      link: /sponsors
+
+links:
+  github: https://github.com/szdiy
+  flickr: https://www.flickr.com/groups/szdiy
+  irc: "#szdiy@freenode"
+  wechat: szdiyorg

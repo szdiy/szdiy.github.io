@@ -1,0 +1,145 @@
+/* #Media Queries
+================================================== */
+
+/* Smaller than standard 960 (devices and browsers) */
+@media only screen and (max-width: 959px) { }
+
+/* Tablet Portrait size to standard 960 (devices and browsers) */
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+  aside#sidebar {
+    overflow: auto;
+    footer {
+      position: relative;
+    }
+  }
+  header {
+    padding: 20px 5px;
+  }
+  #main-content {
+    width: 490px;
+  }
+  #main-content h1, h2, h3, h4, h5, h6 {
+    &:before {
+      padding-right: 0;
+      margin-left: 0;
+      content: none;
+    }
+  }
+}
+
+
+/* All Mobile Sizes (devices and browser) */
+@media only screen and (max-width: 767px) {
+  header {
+    margin: 10px;
+    padding: 0;
+
+    h2 {
+      font-size: 16px;
+      margin-top: 10px;
+    }
+  }
+  aside#sidebar {
+    overflow: auto;
+    footer {
+      position: relative;
+    }
+  }
+  aside#sidebar {
+    width: 220px;
+    min-height: 0;
+  }
+
+  #content-wrapper, aside#sidebar {
+    padding-top: 0;
+  }
+
+  #main-content {
+    // padding: 20px 0;
+
+    h1, h2, h3, h4, h5, h6 {
+      &::before {
+        padding-right: 0;
+        margin-left: 0;
+        content: none;
+      }
+    }
+  }
+
+}
+
+
+/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
+@media only screen and (min-width: 479px) and (max-width: 767px) {
+
+}
+
+/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+@media only screen and (max-width: 479px) {
+  #content-wrapper {
+    flex-direction: column;
+  }
+
+  aside#sidebar {
+    font-size: 14px;
+    width: auto;
+
+    .logo {
+      width: 64px;
+      height: 64px;
+      float: left;
+    }
+
+    header {
+      h1, h2 {
+        margin-left: 84px;
+      }
+    }
+
+    .nav {
+      padding: 0 5px;
+    }
+
+    footer {
+      padding: 10px;
+      font-size: 14px;
+    }
+  }
+
+  .site-link {
+    display: inline;
+    margin-right: 10px;
+  }
+}
+
+@media only screen and (max-width: 479px) {
+  #content-wrapper {
+    flex-direction: column;
+  }
+
+  aside#sidebar {
+    font-size: 11px;
+
+    .logo {
+      width: 48px;
+      height: 48px;
+    }
+
+    header {
+      h1, h2 {
+        margin-left: 58px;
+      }
+      h1 {
+        font-size: 22px;
+      }
+      h2 {
+        font-size: 13px;
+      }
+    }
+
+    footer {
+      padding: 10px;
+      font-size: 11px;
+    }
+  }
+}

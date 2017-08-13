@@ -1,0 +1,27 @@
+
+<aside id="sidebar">
+
+{% include header.html %}
+
+
+  {% if site.sidebar %}
+  <!-- Navigation Tree -->
+  <div class="nav">
+
+    {% include tree.html items=site.sidebar.items %}
+
+  </div>
+
+  {% endif %}
+
+<footer>
+
+  <div class="site-link"><a href="{{ site.links.github }}">Github</a></div>
+  <div class="site-link"><a href="{{ site.links.flickr }}">Flickr</a></div>
+  <div class="site-link">IRC: {{ site.links.irc }}</div>
+  <div class="site-link">Wechat: {{ site.links.wechat }}</div>
+  <div class="site-link">Admin: szdiyadm[#]gmail.com</div>
+
+</footer>
+
+</aside>

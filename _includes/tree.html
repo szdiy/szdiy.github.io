@@ -1,0 +1,24 @@
+
+{% if include.items %}
+<ul class="sidebar-nav tree">
+
+  {% for item in include.items %}
+
+    <li>
+
+      {% if item.link %}
+        <a href="{{ item.link | relative_url }}">{{item.title}}</a>
+      {% else %}
+        <span>{{ item.title }}</span>
+      {% endif %}
+
+
+      {% include tree.html items=item.items %}
+
+    </li>
+
+  {% endfor %}
+
+</ul>
+
+{% endif %}
