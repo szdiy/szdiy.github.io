@@ -5,9 +5,8 @@
  1. 拉代码
 
  ```bash
- $ git clone git@github.com:szdiy/szdiy-web.git
+ $ git clone git@github.com:szdiy/szdiy.github.io.git
  $ cd szdiy-web
- $ git checkout origin/gh-pages
  ```
 
  2. 安装开发环境
