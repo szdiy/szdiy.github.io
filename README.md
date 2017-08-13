@@ -5,7 +5,7 @@
  1. 拉代码
 
  ```bash
- $ git clone git@github.com:szdiy/szdiy.github.io.git
+ $ git clone git@github.com:szdiy/szdiy.github.io.git szdiy-web
  $ cd szdiy-web
  ```
 
