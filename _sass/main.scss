@@ -87,9 +87,12 @@ form {
   right: 0;
   bottom: 0;
   height: 100%;
-  display: flex;
 }
 
+#inner {
+  display: flex;
+  height: 100%;
+}
 
 /* 左栏 */
 // logo头部
