@@ -9,13 +9,13 @@ permalink: members
  * atommann
  * __danfei*__
  * DanDan Zhou
- * enjun wang
+ * enjun wang(老王)
  * 颜民革
  * __Nala Ginrut*__ (禅师)
  <br/>Github: <https://github.com/NalaGinrut/>
  <br/>Email: nalaginrut@gmail.com
- * __欧阳国栋*__
- * xu chris
+ * __terryoy*__ (Terry)
+ * xu chris(老徐)
  * 老梁
  * 蔡老师
  * 阿丰
@@ -23,7 +23,7 @@ permalink: members
  * dennis
  * julung
  * XIE Yuheng
- * Rafael Lee
+ * Rafael Leexi((方舟)
  * Martin. Han
 
 

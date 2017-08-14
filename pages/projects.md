@@ -7,9 +7,9 @@ permalink: projects
 
 
  * [Artanis](#): A fast monolithic web-framework of Scheme
- * [eliug](#)
- * [Edmund(IRCBot)](#)
+ * [eliug](https://github.com/szdiy/eliug): A smart irc bot written with GNU Guile-scheme
+ * [Edmund(IRCBot)](https://github.com/terryoy/teatime-apps#): an IRC Robot served in #szdiy channel on freenode.net
  * [FacePhone](#)
- * [POLASCII](https://polascii.szdiy.org)
- * [szdiyCam](#)
- * [Orange Maze](#)
+ * [POLASCII](http://polascii.szdiy.org): An ASCII Camera that prints you a QR code for the image.
+ * [szdiyCam](https://github.com/szdiy/szdiyCam): An RPI camera in SZDIY Hackerspace.
+ * [Orange Maze](https://www.seeedstudio.com/recipe/152-orange-maze.html): A balance maze game done with MakeBlock kits.
