@@ -24,5 +24,5 @@ layout: default
  * 每周四晚(8:00pm - 10:00pm)为固定聚会时间，无需预约；其余时间只对认证会员开放。
  * 媒体来访请发邮件到管理员邮箱（szdiyadm[#]gmail.com)预约。
 
- * Open Meetups on every Thursday night(7:00pm - 10:00pm). Other time only opened to certified members.
+ * Regular meetups on Thursday night(7:00pm - 10:00pm) are open to everyone. In other time, only open to certified members.
  * Media visit please register an appointment by sending an email to the admin(szdiyadm[#]gmail.com).
