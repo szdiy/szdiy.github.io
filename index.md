@@ -2,12 +2,12 @@
 layout: default
 ---
 
-# 欢迎来到深圳DIY社区
+# SZDIY Community
 
 ![](images/us.jpg)
 
-深圳DIY社区(SZDIY)是一个深圳本地的自由软硬件社区。
-<br/>SZDIY is a free software/hardware community base in Shenzhen.
+深圳DIY(SZDIY)是一个深圳本地的自由软硬件社区。
+<br/>SZDIY is a free software/hardware community based in Shenzhen.
 
 ## 空间地址
 
@@ -15,7 +15,7 @@ layout: default
 <br/>Address：Sha He Industrial Area Bld. 41 Rm. 301, Bai Shi Zhou, Nanshan District, Shenzhen. Free Open on Thursday Night (7:00pm-10:00pm)
 
  * [高德地图, AMap](http://ditu.amap.com/place/B0FFI1Z747)
- * [谷歌地图, Google](https://www.google.com/maps/d/viewer?mid=1h01XJmSd7bjmOJZx3bT8rTDtD7E&ll=22.54299601138787%2C113.96950855851026&z=17)  
+ * [谷歌地图, Google Map](https://www.google.com/maps/d/viewer?mid=1h01XJmSd7bjmOJZx3bT8rTDtD7E&ll=22.54299601138787%2C113.96950855851026&z=17)  
 
 
 ## 来访须知
