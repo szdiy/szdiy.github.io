@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# SZDIY Community
+# SZDIY Community 欢迎来到深圳DIY社区
 
 
 ![](images/us.jpg)
