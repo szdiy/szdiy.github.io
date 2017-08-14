@@ -1,8 +1,12 @@
 theme: jekyll-theme-architect
 
+# head
+title: SZDIY Community
 
-title: 深圳DIY社区
-description: Welcome to SZDIY/Maker Community
+# sidebar header
+info:
+    title: 深圳DIY社区
+    description: Welcome to SZDIY/Maker Community
 
 
 sidebar:
@@ -34,7 +38,7 @@ sidebar:
     - title: Sponsors 赞助
       link: /sponsors
 
-links:
+social:
   github: https://github.com/szdiy
   flickr: https://www.flickr.com/groups/szdiy
   irc: "#szdiy@freenode"
