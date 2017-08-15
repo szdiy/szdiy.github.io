@@ -8,7 +8,7 @@ permalink: projects
 
  * [Artanis](#): A fast monolithic web-framework of Scheme
  * [eliug](https://github.com/szdiy/eliug): A smart irc bot written with GNU Guile-scheme
- * [Edmund(IRCBot)](https://github.com/terryoy/teatime-apps#): an IRC Robot served in #szdiy channel on freenode.net
+ * [Edmund(IRCBot)](https://github.com/terryoy/teatime-apps): an IRC Robot served in #szdiy channel on freenode.net
  * [FacePhone](#)
  * [POLASCII](http://polascii.szdiy.org): An ASCII Camera that prints you a QR code for the image.
  * [szdiyCam](https://github.com/szdiy/szdiyCam): An RPI camera in SZDIY Hackerspace.
