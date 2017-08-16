@@ -23,6 +23,6 @@ SZDIY is a free software/hardware community base in Shenzhen, with people of a w
 
  * 2009-04-19 SZDIY成立。
  * 2011-08-11 柴火 MakerSpace为SZDIY提供每周四晚的固定聚会场地（至2014-04-08为止）。
- * 2013-10-18 SZDIY的首届Hack42 Hackathon在Techshop成功举办。
+ * 2013-10-18 SZDIY的首届Hack42 Hackathon在开放制造空间Techspace成功举办。
  * 2014-04-08 SZDIY Hackerspace成立。
  * 2015-01-01 社区项目Artanis被接纳成为GNU官方项目，是SZDIY为自由软件运动的做出贡献之一。
