@@ -15,10 +15,6 @@ SZDIY is a free software/hardware community base in Shenzhen, with people of a w
  * 分享：定期/不定期举办主题聚会，分享知识/经历/见闻/体会。
  * 协作：社区鼓励成员间自发项目协作，资源对接。
 
-## 空间
-
-## 工具列表
-
 ## 大事记
 
  * 2009-04-19 SZDIY成立。
