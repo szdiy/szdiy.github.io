@@ -209,6 +209,7 @@ aside#sidebar {
       
       .fa {
         width: 15px;
+        text-align: center;
       }
 
       a {
@@ -276,6 +277,11 @@ aside#sidebar {
     margin-bottom: 8px;
     font-size: .8em;
     color: #474747;
+  }
+
+  .fa {
+    width: 15px;
+    text-align: center;
   }
 }
 
