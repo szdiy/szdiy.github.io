@@ -168,6 +168,7 @@ aside#sidebar {
   background-color: $sidebar-bg-color;
   display: flex;
   flex-direction: column;
+  overflow: auto;
 
   a {
     color: $sidebar-color;
@@ -281,3 +282,14 @@ aside#sidebar {
 
 
 /* MISC */
+
+.member-list {
+
+  li {
+    margin: 10px 0;
+  }
+
+  .fa {
+    width: 15px;
+  }
+}

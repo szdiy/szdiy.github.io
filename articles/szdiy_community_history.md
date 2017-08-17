@@ -5,7 +5,7 @@ permalink: culture/szdiy_community_history
 
 # 一个创客社区的成长历程
 
-#### 作者: terryoy 发表于 2013-10-28 16:55 [雷锋网](https://www.leiphone.com/news/201406/maker-comunity.html)
+#### 作者: terryoy 发表于 2013-10-28 16:55 雷锋网
 
 
 大家好，我是Terry，是一名软件工程师 今天来这里给大家讲一个创客社区的成长故事。
