@@ -6,7 +6,7 @@ permalink: members
 # Certificated Members 认证会员
 
 
- * atommann
+ * atommann(龙黎)
  <br/><i class="fa fa-home"></i> <https://sites.google.com/site/atommann2>
  <br/><i class="fa fa-user-o"></i> <http://atommann-long.blogspot.jp/>
  <br/><i class="fa fa-envelope-o"></i> [atommann@gmail.com](mailto:atommann@gmail.com)
@@ -15,7 +15,7 @@ permalink: members
  <br/><i class="fa fa-home"></i> <https://danfei.github.io/>
  <br/><i class="fa fa-envelope-o"></i> [df4vhehe@gmail.com](mailto:df4vhehe@gmail.com)
 
- * DanDan Zhou
+ * DanDan Zhou(DD)
 
  * enjun wang(老王)
 
@@ -34,8 +34,8 @@ permalink: members
  * 老梁
  * 蔡老师
  * 阿丰
- * gump.yang
- * dennis
+ * gump.yang(杨城)
+ * dennis(曾哥)
  * Simon(朱如珑)
  <br/><i class="fa fa-envelope-o"></i> [julung@gmail.com](mailto:julung@gmail.com)
 
@@ -44,7 +44,7 @@ permalink: members
  <br/><i class="fa fa-github"></i> <https://github.com/RafaelLeeImg/>
  <br/><i class="fa fa-envelope-o"></i> [r@szdiy.com](mailto:r@szdiy.com)
 
- * Martin. Han
+ * Martin. Han(韩世豪)
 
 注: "__\*__"的为管理员。
 <br/>Note: "__\*__" are administrators.
