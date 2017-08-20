@@ -36,9 +36,14 @@ permalink: members
  * 阿丰
  * gump.yang
  * dennis
- * julung
+ * Simon(朱如珑)
+ <br/><i class="fa fa-envelope-o"></i> [julung@gmail.com](mailto:julung@gmail.com)
+
  * XIE Yuheng
- * Rafael Leexi((方舟)
+ * Rafael Lee(李方舟)
+ <br/><i class="fa fa-github"></i> <https://github.com/RafaelLeeImg/>
+ <br/><i class="fa fa-envelope-o"></i> [r@szdiy.com](mailto:r@szdiy.com)
+
  * Martin. Han
 
 注: "__\*__"的为管理员。
