@@ -30,9 +30,13 @@ permalink: members
  <br/><i class="fa fa-github"></i> <https://github.com/terryoy/>
  <br/><i class="fa fa-envelope-o"></i> [terry.ouyang@gmail.com](mailto:terry.ouyang@gmail.com)
 
- * xu chris(老徐)
- * 老梁
- * 蔡老师
+ * Xu(徐孜军)
+ <br/><i class="fa fa-envelope-o"></i> [chncsu@gmail.com](mailto:chncsu@gmail.com)
+
+ * Ryan Liang(老梁)
+ <br/><i class="fa fa-envelope-o"></i> [1433768997@qq.com](mailto:1433768997@qq.com)
+
+ * cyzxx(蔡老师)
  * 阿丰
  * gump.yang(杨城)
  * dennis(曾哥)
