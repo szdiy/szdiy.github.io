@@ -30,7 +30,7 @@ permalink: members
  <br/><i class="fa fa-github"></i> <https://github.com/terryoy/>
  <br/><i class="fa fa-envelope-o"></i> [terry.ouyang@gmail.com](mailto:terry.ouyang@gmail.com)
 
- * Xu(徐孜军)
+ * _**Xu $**_ (徐孜军)
  <br/><i class="fa fa-envelope-o"></i> [chncsu@gmail.com](mailto:chncsu@gmail.com)
 
  * Ryan Liang(老梁)
@@ -50,5 +50,5 @@ permalink: members
 
  * Martin. Han(韩世豪)
 
-注: "__\*__"的为管理员。
-<br/>Note: "__\*__" are administrators.
+注: "__\*__"的为管理员。"__$__"为社区财务。
+<br/>Note: "__\*__" are administrators. "__$__" is our Finance Manager.
