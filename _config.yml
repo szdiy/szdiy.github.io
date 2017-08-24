@@ -42,8 +42,18 @@ sidebar:
       link: /sponsors
 
 social:
-  github: https://github.com/szdiy
-  flickr: https://www.flickr.com/groups/szdiy
-  irc: "#szdiy@freenode"
-    # link: 'https://webchat.freenode.net/?channels=szdiy'
-  wechat: szdiyorg
+  github: 
+    title: Github
+    link: https://github.com/szdiy
+  flickr: 
+    title: Flickr 
+    link: https://www.flickr.com/groups/szdiy
+  irc: 
+    title: "IRC: #szdiy@freenode"
+    link: https://webchat.freenode.net/?channels=szdiy
+  wechat: 
+    title: "Wechat: szdiyorg"
+  admin:
+    title: "Admin: szdiyadm[#]gmail.com"
+
+
