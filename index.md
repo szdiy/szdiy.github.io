@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![](images/us.jpg)
+![]({{ site.url }}/assets/images/szdiy_hackerspace.jpg)
 
 **深圳DIY(SZDIY)**是一个深圳本地的自由软硬件社区。
 <br/>SZDIY is a free software/hardware community based in Shenzhen.
