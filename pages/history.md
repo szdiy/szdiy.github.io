@@ -8,19 +8,19 @@ permalink: history
 <div class="history-photo" markdown="block">
 ![SZLUG Embeded Fan Meetup]({{ site.url }}/assets/images/20090301_szlug_embed-small.jpg)
 
-SZDIY诞生于SZLUG，2009年3月1日SZLUG嵌入式爱好者聚会，Anders摄。
+SZDIY诞生于SZLUG，2009年3月1日SZLUG嵌入式爱好者聚会。
 </div>
 
 <div class="history-photo" markdown="block">
 ![Flamingo at Chaihuo]({{ site.url }}/assets/images/20110910_flamingo_at_chaihuo-small.jpg)
 
-2011年9月10日，Flamingo来访Chaihuo，雪石摄。
+2011年9月10日，Flamingo来访Chaihuo。
 </div>
 
 <div class="history-photo" markdown="block">
 ![2012 Shenzhen Mini Maker Faire]({{ site.url }}/assets/images/20120408_szmf_mini-small.jpg)
 
-2012年4月8日，SZDIY参加Shenzhen Mini MakerFaire，Anders摄。
+2012年4月8日，SZDIY参加Shenzhen Mini MakerFaire。
 </div>
 
 <div class="history-photo" markdown="block">
