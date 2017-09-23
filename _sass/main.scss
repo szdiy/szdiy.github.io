@@ -291,12 +291,24 @@ aside#sidebar {
 
 .member-list {
 
+  ul {
+    padding: 0;
+    list-style: none;
+  }
+
   li {
     margin: 10px 0;
+    background: #f8f8f8;
+    padding: 10px;
+    border-radius: 5px;
   }
 
   .fa {
     width: 15px;
+  }
+  
+  p {
+    margin: 0;
   }
 }
 
