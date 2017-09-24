@@ -22,3 +22,4 @@ SZDIY is a free software/hardware community base in Shenzhen, with people of a w
  * 2013-10-18 SZDIY的首届Hack42 Hackathon在开放制造空间Techspace成功举办。
  * 2014-04-08 SZDIY Hackerspace成立。
  * 2015-01-01 社区项目Artanis被接纳成为GNU官方项目，是SZDIY为自由软件运动的做出贡献之一。
+ * 2017-9-24 SZDIY 与 LAB ZERO (lab0x0) 联合举办 IOT Hackathon。

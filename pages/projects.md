@@ -13,3 +13,4 @@ permalink: projects
  * [POLASCII](http://polascii.szdiy.org): An ASCII Camera that prints you a QR code for the image.
  * [szdiyCam](https://github.com/szdiy/szdiyCam): An RPI camera in SZDIY Hackerspace.
  * [Orange Maze](https://www.seeedstudio.com/recipe/152-orange-maze.html): A balance maze game done with MakeBlock kits.
+ * [USBcablecracker](https://github.com/szdiy/USBcablecracker): USB Cable Cracker is a devive that measures the resistance of USB cable. 
