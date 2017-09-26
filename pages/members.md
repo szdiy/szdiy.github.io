@@ -48,7 +48,7 @@ permalink: members
  * Yuheng Xie(谢宇恒)
  * Rafael Lee(李方舟)
  <br/><i class="fa fa-github"></i> <https://github.com/RafaelLeeImg/>
- <br/><i class="fa fa-envelope-o"></i> [r@szdiy.com](mailto:r@szdiy.com)
+ <br/><i class="fa fa-envelope-o"></i> [r@szdiy.org](mailto:r@szdiy.org)
 
  * Martin.Han(韩世豪)
 
