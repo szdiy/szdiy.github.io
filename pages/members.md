@@ -42,6 +42,8 @@ permalink: members
  * Fonzie 阿丰
  * gump.yang(杨城)
  * Dennis(曾哥)
+  <br/><i class="fa fa-envelope-o"></i> [12983614@qq.com](mailto:12983614@qq.com)
+
  * Simon(朱如珑)
  <br/><i class="fa fa-envelope-o"></i> [julung@gmail.com](mailto:julung@gmail.com)
 
