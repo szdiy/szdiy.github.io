@@ -52,8 +52,11 @@ permalink: members
 
  * Martin.Han(韩世豪)
 
- * 夏爵爷 / Danny
+ * 夏爵爷(Danny)
  <br/><i class="fa fa-envelope-o"></i> [taoxia.mail@qq.com](mailto:taoxia.mail@qq.com) / [taoxia.mail@gmail.com](mailto:taoxia.mail@gmail.com)
+
+ * 高帅富(David Pan)
+ <br/><i class="fa fa-envelope-o"></i> [david.gl.pan@gmail.com](mailto:david.gl.pan@gmail.com)
 
 </div>
 
