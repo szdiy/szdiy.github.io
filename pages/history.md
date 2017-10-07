@@ -54,7 +54,14 @@ SZDIY诞生于SZLUG，2009年3月1日SZLUG嵌入式爱好者聚会。
 </div>
 
 <div class="history-photo" markdown="block">
-![SZDIY REgular Meetup]({{ site.url }}/assets/images/20170706_regular_meetup-small.jpg)
+![SZDIY Regular Meetup]({{ site.url }}/assets/images/20170706_regular_meetup-small.jpg)
 
 2017年7月6日，社区的周四固定分享。
 </div>
+
+<div class="history-photo" markdown="block">
+![SZDIY Hackerspace Move to Ke Yuan Xi]({{ site.url }}/assets/images/20171007_szdiy_hackerspace_move-small.jpg)
+
+2017年10月7日，社区搬迁到科苑西小区。
+</div>
+
