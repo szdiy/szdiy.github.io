@@ -14,7 +14,7 @@ layout: default
 地址：深圳南山区科苑西小区33栋516室
 <br/>Address：Building 33 Room 516, Ke Yuan Xi, Nan Shan District, Shenzhen, China.
 
- * [高德地图, AMap](http://f.amap.com/4lFLY_05D3zfb)
+ * [高德地图, AMap](http://ditu.amap.com/place/B0FFIFQLC9)
  * [谷歌地图, Google Map](https://www.google.com/maps/d/u/1/viewer?mid=1UgpSQ13nyIRyFEhp2DR7v8Bxl7w&ll=22.54170420727388%2C113.94276160000004&z=18)  
 
 
