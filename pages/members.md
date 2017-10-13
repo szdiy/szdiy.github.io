@@ -62,6 +62,9 @@ permalink: members
  <br/><i class="fa fa-github"></i> <https://github.com/hutualive>
  <br/><i class="fa fa-envelope-o"></i> [david.gl.pan@gmail.com](mailto:david.gl.pan@gmail.com)
 
+ * Boss
+ <br/><i class="fa fa-envelope-o"></i> [embedshop@163.com](mailto:embedshop@163.com)
+
 </div>
 
 注: "__\*__"的为管理员。"__$__"为社区财务。
