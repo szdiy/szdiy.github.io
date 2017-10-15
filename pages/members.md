@@ -10,7 +10,7 @@ permalink: members
 
  * atommann(龙黎)
  <br/><i class="fa fa-home"></i> <https://sites.google.com/site/atommann2>
- <br/><i class="fa fa-user-o"></i> <http://atommann-long.blogspot.jp/>
+ <br/><i class="fa fa-github"></i> <https://github.com/atommann/>
  <br/><i class="fa fa-envelope-o"></i> [atommann@gmail.com](mailto:atommann@gmail.com)
 
  * __danfei(但非)*__
