@@ -19,7 +19,7 @@ permalink: members
 
  * DanDan Zhou(DD)
 
- * Enjun wang(老王)
+ * Enjun Wang(老王)
 
  * yanminge(颜民革)
 
@@ -62,8 +62,12 @@ permalink: members
  <br/><i class="fa fa-github"></i> <https://github.com/hutualive>
  <br/><i class="fa fa-envelope-o"></i> [david.gl.pan@gmail.com](mailto:david.gl.pan@gmail.com)
 
- * Boss
+ * Boss(王文明)
  <br/><i class="fa fa-envelope-o"></i> [embedshop@163.com](mailto:embedshop@163.com)
+
+ * 吴海鹏
+ <br/><i class="fa fa-envelope-o"></i> [passerby31415@gmail.com](mailto:passerby31415@gmail.com)
+
 
 </div>
 
