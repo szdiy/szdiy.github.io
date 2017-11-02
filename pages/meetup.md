@@ -8,7 +8,7 @@ permalink: meetup
 
 ## 当期聚会
 
- * **2017-11-2, Makre Faire动员会** 
+ * **2017-11-2, Maker Faire动员会** 
 
 ## 过往聚会
 
