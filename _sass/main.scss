@@ -19,7 +19,6 @@ p {
 }
 
 a {
-  text-decoration: none;
   color: $link-color;
   &:hover {
     color: $link-hover-color;
@@ -171,6 +170,7 @@ aside#sidebar {
   overflow: auto;
 
   a {
+    text-decoration: none;
     color: $sidebar-color;
     &:hover {
       color: $sidebar-color;

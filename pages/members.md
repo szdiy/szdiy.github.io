@@ -69,8 +69,7 @@ permalink: members
  <br/><i class="fa fa-envelope-o"></i> [passerby31415@gmail.com](mailto:passerby31415@gmail.com)
 
  * Michael Shieh
- <br/><i class="fa fa-envelope-o"></i> [michael2008s@gmail.com](michael2008s@gmail.com)
-
+ <br/><i class="fa fa-envelope-o"></i> [michael2008s@gmail.com](mailto:michael2008s@gmail.com)
 
 </div>
 
