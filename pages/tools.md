@@ -21,3 +21,7 @@ permalink: tools
  * 示波器
     * Tektronix TDS2014C
 
+# Boards 开发板和零件
+
+[开发板和零件](boards-and-parts/boards)
+
