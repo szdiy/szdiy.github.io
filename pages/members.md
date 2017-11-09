@@ -47,8 +47,6 @@ permalink: members
  * Simon(朱如珑)
  <br/><i class="fa fa-envelope-o"></i> [julung@gmail.com](mailto:julung@gmail.com)
 
- * xieyuheng(谢宇恒)
- <br/><i class="fa fa-home"></i> <https://xieyuheng.github.io/>
  * Rafael Lee(李方舟)
  <br/><i class="fa fa-github"></i> <https://github.com/RafaelLeeImg/>
  <br/><i class="fa fa-envelope-o"></i> [r@szdiy.org](mailto:r@szdiy.org)
