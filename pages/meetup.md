@@ -13,6 +13,7 @@ permalink: meetup
 
 ## 往期聚会
 
+ * 2018-4-19, ESP32开发经验分享 - 民革
  * 2018-4-12，ARM Cortex-M 在 Linux 下的开发 - 方舟
  * 2018-3-8, 编程装备分享 - Nala Ginrut
  * 至农历新年，即兴主题分享 - Nala Ginrut主持
