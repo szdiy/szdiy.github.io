@@ -69,6 +69,9 @@ permalink: members
  * Michael Shieh
  <br/><i class="fa fa-envelope-o"></i> [michael2008s@gmail.com](mailto:michael2008s@gmail.com)
 
+ * Aaron Xu
+ <br/><i class="fa fa-envelope-o"></i> [overheat1984@gmail.com](mailto:overheat1984@gmail.com)
+
 </div>
 
 注: "__\*__"的为管理员。"__$__"为社区财务。
