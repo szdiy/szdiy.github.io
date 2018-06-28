@@ -6,13 +6,14 @@ permalink: meetup
 # Meetup 聚会
 
 
-## 当期聚会
+## 聚会信息
 
  * 主题组织者在放飞自我。。。
  * 改为不定期主题分享，请密切留意邮件组：szdiy@googlegroups.com。
 
-## 往期聚会
+## 聚会日程
 
+ * 2018-7-5, Multi Meter Components Digest 影响万用电表精度的因素。- 方舟
  * 2018-4-19, ESP32开发经验分享 - 民革
  * 2018-4-12，ARM Cortex-M 在 Linux 下的开发 - 方舟
  * 2018-3-8, 编程装备分享 - Nala Ginrut
