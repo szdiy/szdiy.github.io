@@ -65,3 +65,8 @@ SZDIY诞生于SZLUG，2009年3月1日SZLUG嵌入式爱好者聚会。
 2017年10月7日，社区搬迁到科苑西小区。
 </div>
 
+<div class="history-photo" markdown="block">
+![SZDIY 10th Anniversary]({{ site.url }}/assets/images/20190419_10th_anniversary-small.jpg)
+
+2019年4月19日，深圳DIY成立10周年。
+</div>

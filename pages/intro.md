@@ -24,3 +24,4 @@ SZDIY is a free software/hardware community base in Shenzhen, with people of a w
  * 2015-01-01 社区项目Artanis被接纳成为GNU官方项目，是SZDIY为自由软件运动的做出贡献之一。
  * 2017-09-24 SZDIY 与 LAB ZERO (lab0x0) 联合举办 IOT Hackathon。
  * 2017-10-07 SZDIY Hackerspace搬到科技园科苑西小区。
+ * 2019-04-19 SZDIY成立10周年，确定中文名称为“深圳野生创客空间”。
