@@ -5,7 +5,7 @@ permalink: intro
 
 # Intro 社区介绍
 
-深圳DIY社区(SZDIY)是一个自由软硬件社区，最初由来自SZLUG（Shenzhen Linux User Group）的Linux爱好者于2009年创立。社区线上采用邮件列表和IRC交流想法，线下定期举办聚会来分享各自领域的知识、交流想法、协作推进项目。社区鼓励大家动手协作，解决日常生活中所遇到的实际问题。经历数年积累，社区沉淀下了不少原创DIY项目，同时凝聚了众多来自不同领域的技术人才，逐渐形成了“行胜于言”的社区文化。
+深圳野生创客社区(SZDIY)是一个自由软硬件社区，最初由来自SZLUG（Shenzhen Linux User Group）的Linux爱好者于2009年创立。社区线上采用邮件列表和IRC交流想法，线下定期举办聚会来分享各自领域的知识、交流想法、协作推进项目。社区鼓励大家动手协作，解决日常生活中所遇到的实际问题。经历数年积累，社区沉淀下了不少原创DIY项目，同时凝聚了众多来自不同领域的技术人才，逐渐形成了“行胜于言”的社区文化。
 
 SZDIY is a free software/hardware community base in Shenzhen, with people of a wide range of professions. We have online/offline meet-ups to discuss, tinker and make cool things.
 
