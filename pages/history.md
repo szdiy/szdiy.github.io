@@ -68,5 +68,5 @@ SZDIY诞生于SZLUG，2009年3月1日SZLUG嵌入式爱好者聚会。
 <div class="history-photo" markdown="block">
 ![SZDIY 10th Anniversary]({{ site.url }}/assets/images/20190419_10th_anniversary-small.jpg)
 
-2019年4月19日，深圳DIY成立10周年。
+2019年4月19日，深圳野生创客空间（SZDIY）成立10周年。
 </div>
