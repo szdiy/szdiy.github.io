@@ -26,3 +26,4 @@ SZDIY is a free software/hardware community base in Shenzhen, with people of a w
  * 2017-10-07 SZDIY Hackerspace搬到科技园科苑西小区。
  * 2019-04-19 SZDIY成立10周年，确定中文名称为“深圳野生创客空间”。
  * 2020-04-30 SZDIY每周四的固定聚会从此转向线上。
+ * 2023-04-22 SZDIY恢复线下聚会。
