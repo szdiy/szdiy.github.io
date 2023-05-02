@@ -56,4 +56,5 @@ social:
   admin:
     title: "Admin: szdiyadm[#]gmail.com"
 
-
+plugins:
+  - jekyll-loading-lazy

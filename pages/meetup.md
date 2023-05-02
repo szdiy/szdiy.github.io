@@ -8,10 +8,12 @@ permalink: meetup
 
 ## 聚会信息
 
-* 主题组织者在放飞自我。。。
-* 改为不定期主题分享，请密切留意邮件组：szdiy@googlegroups.com。
+- 每周六有安排主题分享，请密切留意邮件组：[szdiy@googlegroups.com](https://groups.google.com/g/szdiy)。
+- 聚会日历：
 
-## 聚会日程
+<iframe src="https://calendar.google.com/calendar/embed?src=1b1dd602b762014abe5ac8f1b8795549285a97dd8ef19c2358958a6adcfb8df5%40group.calendar.google.com&ctz=Asia%2FShanghai" style="border: 0" width="640" height="480" frameborder="0" scrolling="no"></iframe>
+
+## 往期记录
 
 * 2020-1-09 [铜豌豆Linux发行版](https://www.atzlinux.com)简介 - Faris Xiao
 * 2018-7-5, Multi Meter Components Digest 影响万用电表精度的因素。- 方舟
