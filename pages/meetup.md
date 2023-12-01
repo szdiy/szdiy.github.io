@@ -19,13 +19,13 @@ permalink: meetup
 
 <style>
 table th:first-of-type {
-    width: 150pt;
+    width: 100pt;
 }
 table th:nth-of-type(2) {
-    width: 350pt;
+    width: 250pt;
 }
 table th:nth-of-type(3) {
-    width: 250pt;
+    width: 150pt;
 }
 </style>
 | 日期 | 主题 | 分享人 | 
