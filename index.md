@@ -12,14 +12,14 @@ layout: default
 
 ## Regular Meeting 定期聚会
 
-**从2023年4月15日起，SZDIY恢复线下聚会，时间为每周六下午14:00～17:00。**
+**从2023年12月7日起，SZDIY恢复线下聚会，时间为每周四晚19:00～22:00。**
 
 **聚会相关的地点、主题信息，请留意我们Google邮件组的更新。**
 
-**Staring from April 15, 2023, SZDIY regular offline meeting returned. It is scheduled on every Saturday afternoon 14:00 - 17:00 <br/> n Please subscribe our google group for the latest meeting information(including location, topic, etc.).**
+**Staring from December 7, 2023, SZDIY regular offline meeting returned. It is scheduled on every Thursday 19:00 - 22:00 <br/> n Please subscribe our google group for the latest meeting information(including location, topic, etc.).**
 
 
- * **每周六下午(14:00 - 17:00)为固定开放聚会时间**。
+ * **每周四下午(19:00 - 22:00)为固定开放聚会时间**。
  * 媒体采访请发送邮件到管理员邮箱（szdiyadm[#]gmail.com)预约。<br/>&nbsp;
- * **Regular meetups on Thursday afternoon(14:00 - 17:00)** are open to everyone. 
+ * **Regular meetups on Thursday afternoon(19:00 - 22:00)** are open to everyone. 
  * Media queries please contact admin(szdiyadm[#]gmail.com).
