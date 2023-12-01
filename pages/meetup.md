@@ -17,6 +17,17 @@ permalink: meetup
 
 ## Past records 往期记录
 
+<style>
+table th:first-of-type {
+    width: 150pt;
+}
+table th:nth-of-type(2) {
+    width: 350pt;
+}
+table th:nth-of-type(3) {
+    width: 250pt;
+}
+</style>
 | 日期 | 主题 | 分享人 | 
 | ----------- | ----------- |
 |12/2/2023	| 特种三防计算机和AI前沿探索	| Kevin
