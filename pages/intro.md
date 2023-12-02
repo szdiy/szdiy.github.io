@@ -11,9 +11,10 @@ Shenzhen DIY Community (SZDIY) is a community for free software and hardware ent
 
 ## Mission 使命
 
-- 自由：社区鼓励和支持个人思想、表达和行动的自由，自由软件精神也是其中重要的组成部分，有助于保障用户的自由和隐私，确保技术的共享和开放。
-- 分享：社区提倡开放和透明的合作方式和知识共享，促进参与者之间的沟通和信息交流，让每个人都有机会从中受益并做出贡献。
-- 进步：社区强调不断学习和不断进步的态度和精神，鼓励参与者不断研究和尝试新技术和新方法，以创造更好的东西，并积极地探索和解决问题。
+- 自由：社区鼓励和支持个人思想、表达和行动的自由，自由软件精神也是其中重要的组成部分，有助于保障用户的自由和隐私，确保技术的共享和开放。  
+- 分享：社区提倡开放和透明的合作方式和知识共享，促进参与者之间的沟通和信息交流，让每个人都有机会从中受益并做出贡献。  
+- 进步：社区强调不断学习和不断进步的态度和精神，鼓励参与者不断研究和尝试新技术和新方法，以创造更好的东西，并积极地探索和解决问题。  
+
 
 - Freedom: The community encourages and supports the freedom of individual thought, expression, and action. The spirit of free software is also a crucial component, ensuring the freedom and privacy of users, while promoting the sharing and openness of technology.
 - Sharing: The community advocates for open and transparent collaboration and knowledge sharing. It fosters communication and information exchange among participants, providing opportunities for everyone to benefit and contribute.
@@ -32,6 +33,7 @@ Shenzhen DIY Community (SZDIY) is a community for free software and hardware ent
  * 2020-04-30 SZDIY每周四的固定聚会从此转向线上。
  * 2023-04-15 SZDIY恢复线下聚会。
  * 2023-12-07 SZDIYHackerspace搬到高新南区月香港科技大学产学研大楼314-P。
+
 
  * 2009-04-19 SZDIY was established.
  * 2011-08-11 Chaihuo MakerSpace provided a fixed gathering place for SZDIY every Thursday evening (until April 8, 2014).
