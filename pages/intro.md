@@ -31,7 +31,7 @@ Shenzhen DIY Community (SZDIY) is a community for free software and hardware ent
  * 2019-04-19 SZDIY成立10周年。
  * 2020-04-30 SZDIY每周四的固定聚会从此转向线上。
  * 2023-04-15 SZDIY恢复线下聚会。
- * 2023-12-07 SZDIYHackerspace搬到高新南区月香港科技大学产学研大楼314-P。
+ * 2023-12-07 SZDIY Hackerspace搬到高新南区香港科技大学产学研大楼314-P。
 
  * 2009-04-19 SZDIY was established.
  * 2011-08-11 Chaihuo MakerSpace provided a fixed gathering place for SZDIY every Thursday evening (until April 8, 2014).
