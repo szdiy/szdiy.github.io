@@ -6,9 +6,10 @@ permalink: tools
 # Tools 工具列表
 
 （仅开放给认证会员使用）
+Exclusive for Certificated Members only
 
- * 示波器
-    * Tektronix TDS2014C
+ * Digital Oscilloscopes 示波器 
+    * Rigol DS1102E Bandwidth: 100 Mhz, Channels: 2
 
 # Boards 开发板和零件
 
