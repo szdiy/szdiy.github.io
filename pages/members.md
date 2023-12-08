@@ -68,5 +68,4 @@ permalink: members
 # Honorable Members 荣誉会员
 
 <div class="member-list" markdown="1">
-Anders  Danny  Enjun Wang  Fonzie  Hao  Kermit  Martin.Han  Nala Ginrut  Rafael Lee  Simon  terryoy  Xu  吴海鹏  邓耀桓  马玲
-</div>
+Anders, Chris, Danny, Enjun Wang, Fonzie, Hao, Kermit, Martin.Han, Mitch Davis, Nala Ginrut, Odeson, Rafael Lee, Simon, terryoy, Xu, 吴海鹏, 邓耀桓, 马玲</div>
