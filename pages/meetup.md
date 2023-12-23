@@ -17,7 +17,8 @@ permalink: meetup
 
 ## Past records 往期记录
 
-* 12/14/2023	工程师如何停止焦虑，转而与AI拥抱	汪志康
+* 12/21/2023	UFS简介 Martin
+* 12/14/2023	工程师如何停止焦虑，转而与AI拥抱	kangkang
 * 12/7/2023	流媒体处理SoC和安防产业	狮子
 * 12/2/2023	特种三防计算机和AI前沿探索	Kevin
 * 11/25/2023	Terminal风格的TODO项目	徐开
