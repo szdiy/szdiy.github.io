@@ -16,6 +16,10 @@ permalink: members
  <br/><i class="fa fa-home"></i> <https://sites.google.com/site/atommann2>
  <br/><i class="fa fa-envelope-o"></i> [atommann@gmail.com](mailto:atommann@gmail.com)
 
+ * Bin
+ <br/><i class="fa fa-github"></i> <https://github.com/iamsk>
+ <br/><i class="fa fa-envelope-o"></i> [iamsk.info@gmail.com](mailto:iamsk.info@gmail.com)
+
  * Boss(王文明)
  <br/><i class="fa fa-home"></i> <https://www.OpenEmbed.com/>
  <br/><i class="fa fa-envelope-o"></i> [embedshop@163.com](mailto:embedshop@163.com)
@@ -55,6 +59,8 @@ permalink: members
 
  * Ryan Liang(老梁)
  <br/><i class="fa fa-envelope-o"></i> [1433768997@qq.com](mailto:1433768997@qq.com)
+
+ * Tom 
 
  * yanminge(颜民革)
  <br/><i class="fa fa-envelope-o"></i> [guojia198769@gmail.com](mailto:guojia198769@gmail.com)
