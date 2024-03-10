@@ -16,7 +16,9 @@ permalink: meetup
 <iframe src="https://calendar.google.com/calendar/embed?src=1b1dd602b762014abe5ac8f1b8795549285a97dd8ef19c2358958a6adcfb8df5%40group.calendar.google.com&ctz=Asia%2FShanghai" style="border: 0" width="640" height="480" frameborder="0" scrolling="no"></iframe>
 
 ## Past records 往期记录
-
+* 3/21/2024	人人都能做设计	囧超人
+* 3/14/2024	无刷动量轮倒立摆	张昱宽
+* 3/7/2024	陀螺仪	业超
 * 2/29/2024	嵌入式系统那些事	Nathan
 * 2/22/2024	农历新年后的第一次聚会
 * 2/1/2024	MicroPython移植浅谈	杨城
