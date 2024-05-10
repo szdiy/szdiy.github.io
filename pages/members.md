@@ -46,6 +46,10 @@ permalink: members
  <br/><i class="fa fa-github"></i> <https://github.com/hutualive>
  <br/><i class="fa fa-envelope-o"></i> [david.gl.pan@gmail.com](mailto:david.gl.pan@gmail.com)
 
+ * Kevin Ning
+ <br/><i class="fa fa-github"></i> <https://gapier.net/pnedfff>
+ <br/><i class="fa fa-envelope-o"></i> [pnedfff@gmail.com](mailto:pnedfff@gmail.com)
+
  * Michael Shieh
  <br/><i class="fa fa-envelope-o"></i> [michael2008s@gmail.com](mailto:michael2008s@gmail.com)
 
@@ -64,6 +68,9 @@ permalink: members
 
  * yanminge(颜民革)
  <br/><i class="fa fa-envelope-o"></i> [guojia198769@gmail.com](mailto:guojia198769@gmail.com)
+
+ * 鸟哥
+ <br/><i class="fa fa-envelope-o"></i> [lz614@163.com](mailto:lz614@163.com)
 
 </div>
 
