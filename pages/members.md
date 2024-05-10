@@ -69,7 +69,7 @@ permalink: members
  * yanminge(颜民革)
  <br/><i class="fa fa-envelope-o"></i> [guojia198769@gmail.com](mailto:guojia198769@gmail.com)
 
- * 鸟哥
+ * 李贽（鸟哥）
  <br/><i class="fa fa-envelope-o"></i> [lz614@163.com](mailto:lz614@163.com)
 
 </div>
