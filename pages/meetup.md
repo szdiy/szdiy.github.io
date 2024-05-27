@@ -16,6 +16,8 @@ permalink: meetup
 <iframe src="https://calendar.google.com/calendar/embed?src=1b1dd602b762014abe5ac8f1b8795549285a97dd8ef19c2358958a6adcfb8df5%40group.calendar.google.com&ctz=Asia%2FShanghai" style="border: 0" width="640" height="480" frameborder="0" scrolling="no"></iframe>
 
 ## Past records 往期记录
+* 5/30/2024	基于Visual Studio Code的Zephyr开发	张宇奇
+* 5/23/2024	音乐计算- MIDI与合成器	枯萧
 * 5/9/2024	AI butter camera设计指北	徐开
 * 4/25/2024	创客文化与自由软件	danfei
 * 4/18/2024	自媒体赛道指南	Tom
