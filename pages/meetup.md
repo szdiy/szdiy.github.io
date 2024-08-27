@@ -16,6 +16,10 @@ permalink: meetup
 <iframe src="https://calendar.google.com/calendar/embed?src=1b1dd602b762014abe5ac8f1b8795549285a97dd8ef19c2358958a6adcfb8df5%40group.calendar.google.com&ctz=Asia%2FShanghai" style="border: 0" width="640" height="480" frameborder="0" scrolling="no"></iframe>
 
 ## Past records 往期记录
+* 8/29/2024	MakerFaire动员	danfei
+* 7/4/2024	AI butter camera设计指西	徐开
+* 6/27/2024	From Making to Innovation	彭梵迪
+* 6/20/2024	从苹果智能中我们能学到什么	十一
 * 6/13/2024	家庭创客空间的反思与迭代-父女俩的升级打怪之旅	周巍
 * 6/6/2024	AI butter camera设计指东	徐开、Nathan
 * 5/30/2024	基于Visual Studio Code的Zephyr开发	张宇奇
