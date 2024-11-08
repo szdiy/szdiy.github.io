@@ -15,6 +15,7 @@ permalink: projects
 * [Orange Maze](https://github.com/szdiy/orange-maze): A balance maze game done with MakeBlock kits.	
 * [POLASCII](https://github.com/szdiy/polascii): An ASCII Camera that prints you a QR code for the image.	
 * [Punched Tape Printer](https://groups.google.com/g/szdiy/c/e9RQLofUMH0): Exhibits at Makerfaire 2023	.
+* [Punched Tape Reader](https://github.com/szdiy/punch-tape-reader): Exhibits at Makerfaire 2024	.
 * [Retro 1999](https://groups.google.com/g/szdiy/c/e9RQLofUMH0): Exhibits at Makerfaire 2023.	
 * [SZDIY Party Online	Minetest](https://groups.google.com/g/szdiy/c/ruDcrQbFxks):Minetest. 
 * [szdiy7thduino](https://sites.google.com/site/atommann2/szdiy-projects/szdiy7thduino?authuser=0): In celebration of the 7th anniversary of SZDIY's inception, a circuit board has been crafted.	
