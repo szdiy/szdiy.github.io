@@ -42,6 +42,9 @@ permalink: members
  <br/><i class="fa fa-github"></i> <https://yangchengwork.github.io/>
  <br/><i class="fa fa-envelope-o"></i> [gump.yang@gmail.com](mailto:gump.yang@gmail.com)
 
+ * Helen Tan
+ <br/><i class="fa fa-envelope-o"></i> [helenlctan@gmail.com](mailto:helenlctan@gmail.com)
+
  * hutualive(高帅富)
  <br/><i class="fa fa-github"></i> <https://github.com/hutualive>
  <br/><i class="fa fa-envelope-o"></i> [david.gl.pan@gmail.com](mailto:david.gl.pan@gmail.com)
@@ -56,10 +59,6 @@ permalink: members
  * _**Nathan $**_
  <br/><i class="fa fa-github"></i> <https://github.com/lessonwill>
  <br/><i class="fa fa-envelope-o"></i> [lessonwill@gmail.com](mailto:lessonwill@gmail.com)
-
- * Rraion
- <br/><i class="fa fa-github"></i> <https://www.rraion.blog>
- <br/><i class="fa fa-envelope-o"></i> [17347932172@163.com](mailto:17347932172@163.com)
 
  * Ryan Liang(老梁)
  <br/><i class="fa fa-envelope-o"></i> [1433768997@qq.com](mailto:1433768997@qq.com)
@@ -85,5 +84,5 @@ permalink: members
 # Honorable Members 荣誉会员
 
 <div class="member-list" markdown="1">
-Anders, Chris, Danny, Enjun Wang, Fonzie, Hao, Kermit, Martin.Han, Mitch Davis, Nala Ginrut, Odeson, Rafael Lee, Simon, terryoy, Xu, 吴海鹏, 邓耀桓, 马玲
+Anders, Chris, Danny, Enjun Wang, Fonzie, Hao, Kermit, Martin.Han, Mitch Davis, Nala Ginrut, Odeson, Rafael Lee, Rraion, Simon, terryoy, Xu, 吴海鹏, 邓耀桓, 马玲
 </div>
