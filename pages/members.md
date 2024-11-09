@@ -68,12 +68,19 @@ permalink: members
  * yanminge(颜民革)
  <br/><i class="fa fa-envelope-o"></i> [guojia198769@gmail.com](mailto:guojia198769@gmail.com)
 
+ * 焦成坤
+ <br/><i class="fa fa-envelope-o"></i> [jiaochengkun@126.com](mailto:jiaochengkun@126.com)
+
+ * 李贽（鸟哥）
+ <br/><i class="fa fa-envelope-o"></i> [lz614@163.com](mailto:lz614@163.com)
+
  * 十一
  <br/><i class="fa fa-github"></i> <https://www.omnieleven.com>
  <br/><i class="fa fa-envelope-o"></i> [caoshiyi@live.com](mailto:caoshiyi@live.com)
 
- * 李贽（鸟哥）
- <br/><i class="fa fa-envelope-o"></i> [lz614@163.com](mailto:lz614@163.com)
+ * 业超（超载）
+ <br/><i class="fa fa-github"></i> <https://charles-lyc.github.io>
+ <br/><i class="fa fa-envelope-o"></i> [charleslee.lyc@gmail.com](mailto:charleslee.lyc@gmail.com)
 
 </div>
 
