@@ -71,6 +71,9 @@ permalink: members
  * 焦成坤
  <br/><i class="fa fa-envelope-o"></i> [jiaochengkun@126.com](mailto:jiaochengkun@126.com)
 
+ * 枯萧
+ <br/><i class="fa fa-envelope-o"></i> [shawnsoundx@gmail.com](mailto:shawnsoundx@gmail.com)
+
  * 李贽（鸟哥）
  <br/><i class="fa fa-envelope-o"></i> [lz614@163.com](mailto:lz614@163.com)
 
