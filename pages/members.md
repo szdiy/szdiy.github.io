@@ -74,7 +74,7 @@ permalink: members
  * 枯萧
  <br/><i class="fa fa-envelope-o"></i> [shawnsoundx@gmail.com](mailto:shawnsoundx@gmail.com)
 
- * 李贽（鸟哥）
+ * 李鸷（鸟哥）
  <br/><i class="fa fa-envelope-o"></i> [lz614@163.com](mailto:lz614@163.com)
 
  * 十一
