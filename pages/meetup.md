@@ -16,6 +16,12 @@ permalink: meetup
 <iframe src="https://calendar.google.com/calendar/embed?src=1b1dd602b762014abe5ac8f1b8795549285a97dd8ef19c2358958a6adcfb8df5%40group.calendar.google.com&ctz=Asia%2FShanghai" style="border: 0" width="640" height="480" frameborder="0" scrolling="no"></iframe>
 
 ## Past records 往期记录
+* 12/19/2024	Vim编辑器杂谈	Tailer
+* 12/12/2024	EdgeSolar, 一款从头设计的UPS 电源	boss
+* 12/5/2024	制做极简计算机 COSMAC ELF	atommann
+* 11/28/2024	艺术家机器人	徐开
+* 11/21/2024	SZDIY是什么&组装绘图机器人	danfei、焦成坤
+* 10/24/2024	开源硬件探讨：来自上海 Maker Faire的观察	海伦
 * 8/29/2024	MakerFaire动员	danfei
 * 7/4/2024	AI butter camera设计指西	徐开
 * 6/27/2024	From Making to Innovation	彭梵迪
