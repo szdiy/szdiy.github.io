@@ -63,6 +63,9 @@ permalink: members
  * Ryan Liang(老梁)
  <br/><i class="fa fa-envelope-o"></i> [1433768997@qq.com](mailto:1433768997@qq.com)
 
+ * Tailor(裁缝)
+ <br/><i class="fa fa-envelope-o"></i> [wushixionga@sohu.com](mailto:wushixionga@sohu.com)
+
  * Tom 
 
  * yanminge(颜民革)
