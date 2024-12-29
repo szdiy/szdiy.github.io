@@ -16,6 +16,8 @@ permalink: meetup
 <iframe src="https://calendar.google.com/calendar/embed?src=1b1dd602b762014abe5ac8f1b8795549285a97dd8ef19c2358958a6adcfb8df5%40group.calendar.google.com&ctz=Asia%2FShanghai" style="border: 0" width="640" height="480" frameborder="0" scrolling="no"></iframe>
 
 ## Past records 往期记录
+* 1/2/2025	A Brief History of Database	 江佳
+* 12/26/2024	生意与梦想，赚钱与DIY	 曾哥
 * 12/19/2024	Vim编辑器杂谈	Tailer
 * 12/12/2024	EdgeSolar, 一款从头设计的UPS 电源	boss
 * 12/5/2024	制做极简计算机 COSMAC ELF	atommann
