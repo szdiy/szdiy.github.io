@@ -83,3 +83,9 @@ SZDIY诞生于SZLUG，2009年3月1日SZLUG嵌入式爱好者聚会。
 
 2023年7月12日，社区重建了实体空间，恢复了周四晚的固定聚会。
 </div>
+
+<div class="history-photo" markdown="block">
+![SZDIY Hackerspace Move to 314-E]({{ site.url }}/assets/images/20250111_szdiy_space-small.jpg)
+
+2025年1月11日，社区从314-P房间搬到了314-E房间，由SZDIY装修队完成了基础装修工作。
+</div>
