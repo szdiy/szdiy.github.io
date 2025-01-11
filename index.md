@@ -13,11 +13,11 @@ layout: default
 ## Regular Meeting 固定聚会
 
 **时间：每周四晚19:00～22:00**  
-**地点：深圳市南山区高新南区粤兴一道9号（香港科技大学产学研大楼314-P）**  
+**地点：深圳市南山区高新南区粤兴一道9号（香港科技大学产学研大楼314-E）**  
 地图位置 https://www.amap.com/place/B02F37WPFK  
 9号线粤海门地铁站A出口往西南方向走300米可达  
 Time: Every Thursday evening from 19:00 to 22:00.  
-Location: Building 314-P, Hong Kong University of Science and Technology, No. 9 Yuexing 1st Road, Nanshan District, Shenzhen.  
+Location: Building 314-E, Hong Kong University of Science and Technology, No. 9 Yuexing 1st Road, Nanshan District, Shenzhen.  
 Map location: You can find the map location at https://www.amap.com/place/B02F37WPFK.  
 To reach the venue, take Exit A at Yuhaimen Station on Line 9, then walk 300 meters southwest.
 
