@@ -82,7 +82,7 @@ permalink: members
 
  * 十一
  <br/><i class="fa fa-github"></i> <https://www.omnieleven.com>
- <br/><i class="fa fa-envelope-o"></i> [caoshiyi@live.com](mailto:caoshiyi@live.com)
+ <br/><i class="fa fa-envelope-o"></i> [xleven.ai@gmail.com](mailto:xleven.ai@gmail.com)
 
  * 业超（超载）
  <br/><i class="fa fa-github"></i> <https://charles-lyc.github.io>
