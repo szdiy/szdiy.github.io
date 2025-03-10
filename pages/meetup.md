@@ -16,6 +16,12 @@ permalink: meetup
 <iframe src="https://calendar.google.com/calendar/embed?src=1b1dd602b762014abe5ac8f1b8795549285a97dd8ef19c2358958a6adcfb8df5%40group.calendar.google.com&ctz=Asia%2FShanghai" style="border: 0" width="640" height="480" frameborder="0" scrolling="no"></iframe>
 
 ## Past records 往期记录
+
+* 3/6/2025	开启奇妙的电波之旅，业余无线电入门指南	鹏城湾里
+* 2/27/2025	国产AI芯片能否遥遥领先？	高帅富
+* 2/20/2025	虚拟机	Martin
+* 2/13/2025	生活中的欺骗、伪造和入侵	Tom
+* 1/23/2025	M4浅玩	杨城
 * 1/16/2025	漫谈Web - 从C10K到Nginx再到HTTP/2/3	海子Mike
 * 1/9/2025	使用hugo白嫖Github资源搭建Github-like的个人博客	山奈
 * 1/2/2025	A Brief History of Database	 江佳
