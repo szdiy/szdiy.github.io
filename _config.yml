@@ -48,9 +48,9 @@ social:
   flickr: 
     title: Flickr 
     link: https://www.flickr.com/groups/szdiy
-  irc: 
-    title: "IRC: #szdiy@freenode"
-    link: https://webchat.freenode.net/?channels=szdiy
+  Mastodon: 
+    title: "szdiy.social"
+    link: https://szdiy.social/
   wechat: 
     title: "Wechat: szdiyorg"
   admin:
