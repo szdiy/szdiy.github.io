@@ -38,6 +38,8 @@ permalink: members
  <br/><i class="fa fa-home"></i> <https://www.weeemake.com>
  <br/><i class="fa fa-envelope-o"></i> [12983614@qq.com](mailto:12983614@qq.com)
 
+ * Enjun Wang
+
  * gump.yang(杨城)
  <br/><i class="fa fa-github"></i> <https://yangchengwork.github.io/>
  <br/><i class="fa fa-envelope-o"></i> [gump.yang@gmail.com](mailto:gump.yang@gmail.com)
@@ -60,13 +62,21 @@ permalink: members
  <br/><i class="fa fa-github"></i> <https://github.com/lessonwill>
  <br/><i class="fa fa-envelope-o"></i> [lessonwill@gmail.com](mailto:lessonwill@gmail.com)
 
+ * Rraion
+
  * Ryan Liang(老梁)
  <br/><i class="fa fa-envelope-o"></i> [1433768997@qq.com](mailto:1433768997@qq.com)
 
  * Tailor(裁缝)
  <br/><i class="fa fa-envelope-o"></i> [wushixionga@sohu.com](mailto:wushixionga@sohu.com)
 
- * Tom 
+ * Tom
+
+ * XiaoXi（小汐）
+ <br/><i class="fa fa-home"></i> <https://soraharu.com/>
+ <br/><i class="fa fa-github"></i> <https://github.com/yanranxiaoxi>
+ <br/><i class="fa fa-github"></i> <https://gitlab.soraharu.com/XiaoXi>
+ <br/><i class="fa fa-envelope-o"></i> [admin@soraharu.com](mailto:admin@soraharu.com)
 
  * yanminge(颜民革)
  <br/><i class="fa fa-envelope-o"></i> [guojia198769@gmail.com](mailto:guojia198769@gmail.com)
@@ -97,5 +107,5 @@ permalink: members
 # Honorable Members 荣誉会员
 
 <div class="member-list" markdown="1">
-Anders, Chris, Danny, Enjun Wang, Fonzie, Hao, Kermit, Martin.Han, Mitch Davis, Nala Ginrut, Odeson, Rafael Lee, Rraion, Simon, terryoy, Xu, 吴海鹏, 邓耀桓, 马玲
+Anders, Chris, Danny, Fonzie, Hao, Kermit, Martin.Han, Mitch Davis, Nala Ginrut, Odeson, Rafael Lee, Simon, terryoy, Xu, 吴海鹏, 邓耀桓, 马玲
 </div>
