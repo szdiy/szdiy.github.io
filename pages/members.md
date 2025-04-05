@@ -44,12 +44,11 @@ permalink: members
  <br/><i class="fa fa-github"></i> <https://yangchengwork.github.io/>
  <br/><i class="fa fa-envelope-o"></i> [gump.yang@gmail.com](mailto:gump.yang@gmail.com)
 
- * Helen Tan
- <br/><i class="fa fa-envelope-o"></i> [helenlctan@gmail.com](mailto:helenlctan@gmail.com)
-
  * hutualive(高帅富)
  <br/><i class="fa fa-github"></i> <https://github.com/hutualive>
  <br/><i class="fa fa-envelope-o"></i> [david.gl.pan@gmail.com](mailto:david.gl.pan@gmail.com)
+
+ * Jiang jia
 
  * Kevin Ning
  <br/><i class="fa fa-github"></i> <https://gapier.net/pnedfff>
@@ -107,5 +106,5 @@ permalink: members
 # Honorable Members 荣誉会员
 
 <div class="member-list" markdown="1">
-Anders, Chris, Danny, Fonzie, Hao, Kermit, Martin.Han, Mitch Davis, Nala Ginrut, Odeson, Rafael Lee, Simon, terryoy, Xu, 吴海鹏, 邓耀桓, 马玲
+Anders, Chris, Danny, Fonzie, Hao, Helen Tan, Kermit, Martin.Han, Mitch Davis, Nala Ginrut, Odeson, Rafael Lee, Simon, terryoy, Xu, 吴海鹏, 邓耀桓, 马玲
 </div>
