@@ -17,6 +17,9 @@ permalink: meetup
 
 ## Past records 往期记录
 
+* 4/17/2025	xiaozhi-esp32-server搭建	徐开
+* 4/10/2025	云渲染技术探讨	小麦
+* 4/3/2025	Fediverse: 从社交「垄断」中逃离	小汐
 * 3/27/2025	AI 辅助编程：Cursor 的高效实践	Tom
 * 3/20/2025	消费类和三防类电脑产业链揭秘	Kevin
 * 3/13/2025	AI Agents 浅谈：构建 AI 分析师报告	Bin
