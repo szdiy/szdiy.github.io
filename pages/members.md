@@ -63,9 +63,6 @@ permalink: members
 
  * Rraion
 
- * Ryan Liang(老梁)
- <br/><i class="fa fa-envelope-o"></i> [1433768997@qq.com](mailto:1433768997@qq.com)
-
  * Tailor(裁缝)
  <br/><i class="fa fa-envelope-o"></i> [wushixionga@sohu.com](mailto:wushixionga@sohu.com)
 
@@ -106,5 +103,5 @@ permalink: members
 # Honorable Members 荣誉会员
 
 <div class="member-list" markdown="1">
-Anders, Chris, Danny, Fonzie, Hao, Helen Tan, Kermit, Martin.Han, Mitch Davis, Nala Ginrut, Odeson, Rafael Lee, Simon, terryoy, Xu, 吴海鹏, 邓耀桓, 马玲
+Anders, Chris, Danny, Fonzie, Hao, Helen Tan, Kermit, Martin.Han, Mitch Davis, Nala Ginrut, Odeson, Rafael Lee, Ryan Liang, Simon, terryoy, Xu, 吴海鹏, 邓耀桓, 马玲
 </div>
