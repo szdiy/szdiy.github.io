@@ -17,6 +17,11 @@ permalink: meetup
 
 ## Past records 往期记录
 
+* 5/29/2025	Android系统编译与框架介绍	Freeman
+* 5/22/2025	ESP32非典型应用的量产实践	枯萧
+* 5/15/2025	弹珠玩具复刻心得分享	文胜
+* 5/8/2025	Kicad从安装到生产	Danfei
+* 4/24/2025	xiaozhi-esp32编译	高帅富
 * 4/17/2025	xiaozhi-esp32-server搭建	徐开
 * 4/10/2025	云渲染技术探讨	小麦
 * 4/3/2025	Fediverse: 从社交「垄断」中逃离	小汐
