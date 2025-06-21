@@ -17,6 +17,10 @@ permalink: meetup
 
 ## Past records 往期记录
 
+* 6/26/2025	AI 硬件产品研发生产与落地实践	蔡老师
+* 6/19/2025	YOLO视觉目标检测算法	Tailer.W
+* 6/12/2025	电机编码器介绍	方俊骅
+* 6/5/2025	OpenBot：将手机变成机器人大脑&PromptX项目介绍	Yiming&Sean
 * 5/29/2025	Android系统编译与框架介绍	Freeman
 * 5/22/2025	ESP32非典型应用的量产实践	枯萧
 * 5/15/2025	弹珠玩具复刻心得分享	文胜
