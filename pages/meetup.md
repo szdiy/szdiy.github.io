@@ -17,6 +17,8 @@ permalink: meetup
 
 ## Past records 往期记录
 
+* 8/21/2025	​漫谈聚散	鸟哥
+* 8/14/2025	AI相机简介	剑山
 * 8/7/2025	CPU里的“安全保险箱”：TrustZone初探	Martin
 * 7/31/2025	10BASE-T1S,一种新型工业以太网	BOSS
 * 7/24/2025	低成本具身智能101：初识lerobot及lekiwi for nomad实现	山奈
