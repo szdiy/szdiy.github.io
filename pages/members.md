@@ -54,10 +54,7 @@ permalink: members
  <br/><i class="fa fa-github"></i> <https://gapier.net/pnedfff>
  <br/><i class="fa fa-envelope-o"></i> [pnedfff@gmail.com](mailto:pnedfff@gmail.com)
 
- * Michael Shieh
- <br/><i class="fa fa-envelope-o"></i> [michael2008s@gmail.com](mailto:michael2008s@gmail.com)
-
- * _**Nathan $**_
+  * _**Nathan $**_
  <br/><i class="fa fa-github"></i> <https://github.com/lessonwill>
  <br/><i class="fa fa-envelope-o"></i> [lessonwill@gmail.com](mailto:lessonwill@gmail.com)
 
@@ -103,5 +100,5 @@ permalink: members
 # Honorable Members 荣誉会员
 
 <div class="member-list" markdown="1">
-Anders, Chris, Danny, Fonzie, Hao, Helen Tan, Kermit, Martin.Han, Mitch Davis, Nala Ginrut, Odeson, Rafael Lee, Ryan Liang, Simon, terryoy, Xu, 吴海鹏, 邓耀桓, 马玲
+Anders, Chris, Danny, Fonzie, Hao, Helen Tan, Kermit, Martin.Han, Michael Shieh, Mitch Davis, Nala Ginrut, Odeson, Rafael Lee, Ryan Liang, Simon, terryoy, Xu, 吴海鹏, 邓耀桓, 马玲
 </div>
