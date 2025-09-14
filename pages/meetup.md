@@ -17,6 +17,10 @@ permalink: meetup
 
 ## Past records 往期记录
 
+* 9/18/2025	咖啡与NAS	小汐 & 哥伦布
+* 9/11/2025	深入嵌入式AI编程	李星
+* 9/4/2025	反复入门Rust	徐开
+* 8/28/2025	MakerFaire动员	danfei
 * 8/21/2025	​漫谈聚散	鸟哥
 * 8/14/2025	AI相机简介	剑山
 * 8/7/2025	CPU里的“安全保险箱”：TrustZone初探	Martin
