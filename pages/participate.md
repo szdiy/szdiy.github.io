@@ -36,7 +36,7 @@ You can join our WeChat group by following our official account when attending o
 * Following: [@bot@szdiy.social](https://szdiy.social/@bot)
 * Join: [szdiy.social](https://szdiy.social/)
 
-你可以在联邦宇宙中关注我们的发布账号，也可以直接加入我们的联邦宇宙节点。
+你可以在联邦宇宙中关注我们的发布账号，也可以直接加入我们的联邦宇宙节点。  
 You can follow our public account in the Federal Universe, or you can directly join our Federal Universe node.
 
 ## Weekly Meetup 每周聚会
