@@ -30,7 +30,7 @@ permalink: members
  * DanDan Zhou(DD)
  <br/><i class="fa fa-envelope-o"></i> [blazing.forests@gmail.com](mailto:blazing.forests@gmail.com)
 
- * __danfei(但非)*__
+ * _**danfei(但非) \***_
  <br/><i class="fa fa-home"></i> <https://danfei.github.io/>
  <br/><i class="fa fa-envelope-o"></i> [df4vhehe@gmail.com](mailto:df4vhehe@gmail.com)
 
@@ -65,7 +65,7 @@ permalink: members
 
  * Tom
 
- * XiaoXi（小汐）
+ * XiaoXi(小汐)
  <br/><i class="fa fa-home"></i> <https://soraharu.com/>
  <br/><i class="fa fa-github"></i> <https://github.com/yanranxiaoxi>
  <br/><i class="fa fa-github"></i> <https://gitlab.soraharu.com/XiaoXi>
@@ -80,20 +80,20 @@ permalink: members
  * 枯萧
  <br/><i class="fa fa-envelope-o"></i> [shawnsoundx@gmail.com](mailto:shawnsoundx@gmail.com)
 
- * 李鸷（鸟哥）
+ * 李鸷(鸟哥)
  <br/><i class="fa fa-envelope-o"></i> [lz614@163.com](mailto:lz614@163.com)
 
  * 十一
  <br/><i class="fa fa-github"></i> <https://www.omnieleven.com>
  <br/><i class="fa fa-envelope-o"></i> [xleven.ai@gmail.com](mailto:xleven.ai@gmail.com)
 
- * 业超（超载）
+ * 业超(超载)
  <br/><i class="fa fa-github"></i> <https://charles-lyc.github.io>
  <br/><i class="fa fa-envelope-o"></i> [charleslee.lyc@gmail.com](mailto:charleslee.lyc@gmail.com)
 
 </div>
 
-注: "__\*__"的为管理员。"__$__"为社区财务。
+注：『__\*__』的为管理员。『__$__』为社区财务。
 <br/>Note: "__\*__" are administrators. "__$__" is our Finance Manager.
 
 
