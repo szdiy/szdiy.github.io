@@ -1,6 +1,9 @@
 /* 导入动画样式 */
 @import "animations";
 
+/* 导入表格样式 */
+@import "table";
+
 /* COMMON STYLES */
 body {
   font-family: $font-family;
@@ -53,21 +56,6 @@ hr {
   margin-bottom: 1em;
   border: 0;
   border-top: solid 1px #ddd;
-}
-
-table {
-  width: 100%;
-  border: 1px solid #ebebeb;
-}
-
-th {
-  font-weight: 500;
-}
-
-td {
-  font-weight: 300;
-  text-align: center;
-  border: 1px solid #ebebeb;
 }
 
 form {
