@@ -4,6 +4,9 @@
 /* 导入表格样式 */
 @import "table";
 
+/* 导入 dark 模式样式 */
+@import "dark-mode";
+
 /* COMMON STYLES */
 body {
   font-family: $font-family;
@@ -271,6 +274,15 @@ aside#sidebar {
     background: #f8f8f8;
     padding: 10px;
     border-radius: 5px;
+    border: 1px solid transparent;
+    transition: all 0.3s ease;
+    
+    &:hover {
+      background: #f0f0f0;
+      border-color: #FFB400;
+      transform: translateY(-1px);
+      box-shadow: 0 2px 8px rgba(255, 180, 0, 0.2);
+    }
   }
 
   .fa {

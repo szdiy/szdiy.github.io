@@ -13,6 +13,32 @@
     <![endif]-->
 
     <title>{{ site.title | default: site.github.repository_name }}</title>
+
+    <script>
+      (function() {
+        const THEME_STORAGE_KEY = 'szdiy-theme';
+        
+        // 获取当前主题
+        function getCurrentTheme() {
+          // 优先从 localStorage 获取用户设置
+          const savedTheme = localStorage.getItem(THEME_STORAGE_KEY);
+          if (savedTheme) {
+            return savedTheme;
+          }
+          
+          // 其次从系统偏好获取
+          if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+            return 'dark';
+          }
+
+          return 'light';
+        }
+
+        const theme = getCurrentTheme();
+        document.documentElement.setAttribute('data-theme', theme);
+      })();
+    </script>
+
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -38,5 +64,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K288G7P9"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
+
+<!-- 主题切换脚本 -->
+<script src="{{ '/assets/js/theme-switcher.js' | relative_url }}"></script>
   </body>
 </html>
