@@ -16,7 +16,7 @@ There are two ways to join our mailing list:
 * Simply send an email to [szdiy+subscribe@googlegroups.com](mailto:szdiy+subscribe@googlegroups.com)
 * Open the following link to access our Google Groups page: [https://groups.google.com/forum/#!forum/szdiy](https://groups.google.com/forum/#!forum/szdiy)
 
-## IRC
+## IRC 网继聊天室
 
 IRC server: irc.freenode.net  
 Channel: #szdiy

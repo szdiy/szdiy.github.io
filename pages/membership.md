@@ -11,16 +11,16 @@ SZDIY 会员分为普通会员与认证会员。SZDIY members are divided into t
 
 2. 『认证会员』，是由普通会员升级而来，具有一定技术能力，高度认同社区文化，热爱分享具有团队合作能力。可加入 szdiy-dev 邮件列表，讨论发起并参与社区项目。全天候访问 SZDIY Hackerspace，定期获取社区财务简报及社区发展计划，拥有对社区重要决定进行投票的权利。由于 SZDIY Hackerspace 是认证会员共同出资筹建，故认证会员有义务定期向社区捐赠以确保空间正常运营。Certified members: Certified members are upgraded from regular members and possess certain technical abilities. They have a strong alignment with community culture, a passion for sharing, and the ability to work effectively in teams. They can join the szdiy-dev mailing list, initiate and participate in community projects. They have 24/7 access to SZDIY Hackerspace, receive regular financial briefings and community development plans, and have the right to vote on important community decisions. As SZDIY Hackerspace is collectively funded by certified members, they have the responsibility to make regular donations to ensure the smooth operation of the space.
 
-## How to upgrade to a certified member 如何升级成认证会员
+## How to Upgrade to a Certified Member 如何升级成认证会员
 
-### Submit an application for certified membership 提出认证会员申请
+### Submit an Application for Certified Membership 提出认证会员申请
 
 1. 有两名会员推荐即可提出认证会员申请，由管理员发申请表给申请人填写。Obtain two member recommendations: To begin the process of applying for certified membership, it is necessary to secure recommendations from two existing members. The recommendations will serve as an affirmation of your qualifications and suitability for certification. The application form will be provided by the administrator upon receipt of these recommendations.
 
 2. 毛遂自荐：发送邮件到 SZDIY 管理员邮箱申请，管理员讨论后决定是否发申请表给申请人填写。Initiate self-referral: Alternatively, you may initiate the application process by directly emailing the SZDIY administrator. Provide a comprehensive self-introduction and express your interest in obtaining certified membership. The administrator will then discuss your request and decide whether to provide you with the application form for completion.
 
 
-### Processing of certified membership applications 受理认证会员申请
+### Processing of Certified Membership Applications 受理认证会员申请
 
 1. 如果申请人在社区表现符合社区的要求，由管理员同意则可通过其申请，并执行申请受理相关流程（确定捐献金额，添加至 dev 邮件组，etc.）。Approval of Application: If the applicant's performance within the community meets the required criteria and is endorsed by the administrator, their application will be accepted. The subsequent steps for processing the application, such as determining the donation amount and adding them to the dev mailing list, will be carried out.
 
