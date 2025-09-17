@@ -7,6 +7,9 @@
 /* 导入 dark 模式样式 */
 @import "dark-mode";
 
+/* 导入无障碍样式 */
+@import "accessibility";
+
 /* COMMON STYLES */
 body {
   font-family: $font-family;

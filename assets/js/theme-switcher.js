@@ -9,10 +9,14 @@
   
   // 获取当前主题
   function getCurrentTheme() {
-    // 优先从 localStorage 获取用户设置
-    const savedTheme = localStorage.getItem(THEME_STORAGE_KEY);
-    if (savedTheme) {
-      return savedTheme;
+    try {
+      // 优先从 localStorage 获取用户设置
+      const savedTheme = localStorage.getItem(THEME_STORAGE_KEY);
+      if (savedTheme && (savedTheme === 'light' || savedTheme === 'dark')) {
+        return savedTheme;
+      }
+    } catch (error) {
+      console.warn('Failed to read theme from localStorage:', error);
     }
     
     // 其次从系统偏好获取
@@ -24,10 +28,13 @@
   }
 
   function setTheme(theme) {
-    document.documentElement.setAttribute('data-theme', theme);
-    localStorage.setItem(THEME_STORAGE_KEY, theme);
-
-    updateToggleButton(theme);
+    try {
+      document.documentElement.setAttribute('data-theme', theme);
+      localStorage.setItem(THEME_STORAGE_KEY, theme);
+      updateToggleButton(theme);
+    } catch (error) {
+      console.warn('Failed to set theme:', error);
+    }
   }
 
   function updateToggleButton(theme) {
@@ -56,10 +63,14 @@
       const mediaQuery = window.matchMedia('(prefers-color-scheme: dark)');
       
       mediaQuery.addEventListener('change', function(e) {
-        // 只有在用户没有手动设置主题时才跟随系统
-        if (!localStorage.getItem(THEME_STORAGE_KEY)) {
-          const systemTheme = e.matches ? 'dark' : 'light';
-          setTheme(systemTheme);
+        try {
+          // 只有在用户没有手动设置主题时才跟随系统
+          if (!localStorage.getItem(THEME_STORAGE_KEY)) {
+            const systemTheme = e.matches ? 'dark' : 'light';
+            setTheme(systemTheme);
+          }
+        } catch (error) {
+          console.warn('Failed to handle system theme change:', error);
         }
       });
     }

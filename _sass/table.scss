@@ -102,7 +102,7 @@ tr {
   }
 }
 
-@media (max-width: 768px) {
+@media (max-width: $mobile) {
   table {
     font-size: 12px;
     margin: 15px 0;
@@ -126,7 +126,7 @@ tr {
   }
 }
 
-@media (max-width: 480px) {
+@media (max-width: $mobile-small) {
   table {
     font-size: 11px;
   }

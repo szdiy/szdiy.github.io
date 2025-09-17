@@ -3,18 +3,40 @@ html:not(.theme-loaded) #main-content {
   transition: none !important;
 }
 
+html[data-theme="dark"] #main-content {
+  background-color: #1a1a1a !important;
+  color: #e0e0e0 !important;
+}
+
+html[data-theme="dark"] #main-content h1,
+html[data-theme="dark"] #main-content h2,
+html[data-theme="dark"] #main-content h3,
+html[data-theme="dark"] #main-content h4,
+html[data-theme="dark"] #main-content h5,
+html[data-theme="dark"] #main-content h6 {
+  color: #f0f0f0 !important;
+}
+
+html[data-theme="dark"] #main-content p {
+  color: #d0d0d0 !important;
+}
+
+html[data-theme="dark"] #main-content a {
+  color: #FFB400 !important;
+}
+
 /* Dark Mode 基础样式 */
 [data-theme="dark"] {
   #main-content {
-    background-color: #1a1a1a;
-    color: #e0e0e0;
+    background-color: $dark-bg;
+    color: $dark-text;
 
     h1, h2, h3, h4, h5, h6 {
-      color: #f0f0f0;
+      color: $dark-text-light;
     }
 
     p {
-      color: #d0d0d0;
+      color: $dark-text-muted;
     }
 
     a {
@@ -27,39 +49,39 @@ html:not(.theme-loaded) #main-content {
     }
 
     code {
-      background-color: #2d2d2d;
-      color: #FFB400;
-      border: 1px solid #404040;
+      background-color: $dark-card-bg;
+      color: $primary-yellow;
+      border: 1px solid $dark-border;
     }
     
     pre {
-      background-color: #2d2d2d;
-      border: 1px solid #404040;
+      background-color: $dark-card-bg;
+      border: 1px solid $dark-border;
       
       code {
         background-color: transparent;
         border: none;
-        color: #FFB400;
+        color: $primary-yellow;
       }
     }
 
     blockquote {
-      background-color: #2d2d2d;
-      border-left: 10px solid #FFB400;
-      color: #d0d0d0;
+      background-color: $dark-card-bg;
+      border-left: 10px solid $primary-yellow;
+      color: $dark-text-muted;
     }
 
     ul, ol {
-      color: #d0d0d0;
+      color: $dark-text-muted;
     }
 
     hr {
-      border-top: 1px solid #404040;
+      border-top: 1px solid $dark-border;
     }
 
     table {
-      background-color: #2d2d2d;
-      color: #e0e0e0;
+      background-color: $dark-card-bg;
+      color: $dark-text;
       box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
     }
     
@@ -69,8 +91,8 @@ html:not(.theme-loaded) #main-content {
     }
     
     td {
-      color: #e0e0e0;
-      border-bottom: 1px solid #404040;
+      color: $dark-text;
+      border-bottom: 1px solid $dark-border;
       
       &:hover {
         background: rgba(255, 180, 0, 0.1);
@@ -89,21 +111,21 @@ html:not(.theme-loaded) #main-content {
 
     .meetup-table {
       td:first-child {
-        color: #FFB400;
+        color: $primary-yellow;
       }
       
       td:nth-child(2) {
-        color: #f0f0f0;
+        color: $dark-text-light;
       }
       
       td:last-child {
-        color: #FFC107;
+        color: $accent-yellow;
       }
     }
 
     form {
-      background-color: #2d2d2d;
-      border: 1px solid #404040;
+      background-color: $dark-card-bg;
+      border: 1px solid $dark-border;
     }
 
     img {
@@ -131,22 +153,22 @@ html:not(.theme-loaded) #main-content {
 
     .member-list {
       li {
-        background: #2d2d2d;
-        border: 1px solid #404040;
-        color: #e0e0e0;
+        background: $dark-card-bg;
+        border: 1px solid $dark-border;
+        color: $dark-text;
         
         &:hover {
-          background: #3a3a3a;
-          border-color: #FFB400;
+          background: lighten($dark-card-bg, 5%);
+          border-color: $primary-yellow;
         }
       }
       
       p {
-        color: #d0d0d0;
+        color: $dark-text-muted;
       }
       
       a {
-        color: #FFB400;
+        color: $primary-yellow;
         
         &:hover {
           color: #FFD700;
@@ -154,7 +176,7 @@ html:not(.theme-loaded) #main-content {
       }
       
       .fa {
-        color: #FFB400;
+        color: $primary-yellow;
       }
     }
   }
@@ -179,6 +201,8 @@ html:not(.theme-loaded) #main-content {
   color: #aaa;
   text-decoration: none;
   transition: all 0.3s ease;
+  cursor: pointer;
+  font-size: inherit;
   
   &:hover {
     color: #eee;
@@ -188,6 +212,11 @@ html:not(.theme-loaded) #main-content {
   
   &:active {
     transform: none;
+  }
+
+  &:focus {
+    outline: 2px solid $primary-yellow;
+    outline-offset: 2px;
   }
 
   .sun-icon {
@@ -208,6 +237,11 @@ html:not(.theme-loaded) #main-content {
     margin-right: 8px;
   }
 
+  .theme-toggle-text {
+    font-size: 13px;
+    line-height: 1;
+  }
+
   [data-theme="dark"] & {
     .sun-icon {
       display: none;
@@ -219,7 +253,7 @@ html:not(.theme-loaded) #main-content {
   }
 }
 
-@media (max-width: 768px) {
+@media (max-width: $mobile) {
   .theme-toggle {
     width: 35px;
     height: 35px;
