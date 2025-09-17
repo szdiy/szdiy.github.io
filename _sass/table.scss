@@ -1,6 +1,3 @@
-/* 表格样式 - 黄色主题和动态效果 */
-
-/* 基础表格样式 */
 table {
   width: auto;
   max-width: 100%;
@@ -14,7 +11,6 @@ table {
   transition: all 0.3s ease;
 }
 
-/* 表头样式 */
 th {
   background: linear-gradient(135deg, $primary-yellow, $secondary-yellow);
   color: #fff;
@@ -25,14 +21,12 @@ th {
   position: relative;
   font-size: 14px;
   letter-spacing: 0.5px;
-  
-  /* 表头悬停效果 */
+
   &:hover {
     background: linear-gradient(135deg, lighten($primary-yellow, 5%), lighten($secondary-yellow, 5%));
     cursor: default;
   }
-  
-  /* 表头底部装饰线 */
+
   &::after {
     content: '';
     position: absolute;
@@ -45,7 +39,6 @@ th {
   }
 }
 
-/* 表格单元格样式 */
 td {
   padding: 10px 16px;
   text-align: left;
@@ -55,24 +48,20 @@ td {
   line-height: 1.5;
   transition: all 0.2s ease;
   position: relative;
-  
-  /* 单元格悬停效果 */
+
   &:hover {
     background: rgba(255, 180, 0, 0.05);
     transform: translateX(2px);
   }
 }
 
-/* 表格行样式 */
 tr {
   transition: all 0.2s ease;
-  
-  /* 奇偶行颜色 */
+
   &:nth-child(even) {
     background: rgba(255, 248, 220, 0.3);
   }
-  
-  /* 行悬停效果 */
+
   &:hover {
     background: rgba(255, 180, 0, 0.08);
     transform: scale(1.01);
@@ -89,13 +78,11 @@ tr {
   }
 }
 
-/* 表格容器样式 */
 .table-container {
   overflow-x: auto;
   margin: 20px 0;
   border-radius: 8px;
-  
-  /* 自定义滚动条 */
+
   &::-webkit-scrollbar {
     height: 8px;
   }
@@ -115,7 +102,6 @@ tr {
   }
 }
 
-/* 响应式设计 */
 @media (max-width: 768px) {
   table {
     font-size: 12px;
@@ -177,22 +163,6 @@ tr {
     font-style: italic;
     min-width: 100px;
   }
-}
-
-/* 表格加载动画 */
-@keyframes tableFadeIn {
-  from {
-    opacity: 0;
-    transform: translateY(20px);
-  }
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
-
-table {
-  animation: tableFadeIn 0.6s ease-out;
 }
 
 /* 减少动画偏好设置 */
