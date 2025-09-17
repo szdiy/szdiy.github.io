@@ -1,3 +1,6 @@
+/* 导入动画样式 */
+@import "animations";
+
 /* COMMON STYLES */
 body {
   font-family: $font-family;
@@ -12,17 +15,6 @@ body {
 p {
   margin-top: 20px;
   margin-bottom: 20px;
-  a {
-    font-weight: 400;
-    text-decoration: underline;
-  }
-}
-
-a {
-  color: $link-color;
-  &:hover {
-    color: $link-hover-color;
-  }
 }
 
 code, pre {
@@ -172,15 +164,13 @@ aside#sidebar {
   a {
     text-decoration: none;
     color: $sidebar-color;
-    &:hover {
-      color: $sidebar-color;
-    }
   }
 
   .logo {
     display: block;
     width: 200px;
     height: 200px;
+    padding-bottom: 4px;
   }
 
   .nav {
@@ -189,9 +179,6 @@ aside#sidebar {
 
     a {
       border-bottom: 1px solid transparent;
-      &:hover, &:active {
-        border-bottom: 1px solid #fff;
-      }
     }
   }
 
@@ -202,11 +189,8 @@ aside#sidebar {
 
     .site-link {
       color: #aaa;
+      padding-top: 2px;
 
-      &:hover, &:hover a {
-        color: #eee;
-      }
-      
       .fa {
         width: 15px;
         text-align: center;
@@ -214,9 +198,6 @@ aside#sidebar {
 
       a {
         color: #aaa;
-        &:hover {
-          text-decoration: underline;
-        }
       }
     }
   }
