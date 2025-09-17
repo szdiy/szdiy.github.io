@@ -3,9 +3,8 @@
   <head>
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" media="screen" type="text/css">
-    <link ref="stylesheet" href="{{ '/assets/css/font-awesome.min.css' | relative_url }}"  media="screen" type="text/css">
     <link rel="stylesheet" href="{{ '/assets/css/print.css' | relative_url }}" media="print" type="text/css">
 
     <!--[if lt IE 9]>
@@ -13,6 +12,35 @@
     <![endif]-->
 
     <title>{{ site.title | default: site.github.repository_name }}</title>
+
+    <script>
+      (function() {
+        const THEME_STORAGE_KEY = 'szdiy-theme';
+        
+        // 获取当前主题
+        function getCurrentTheme() {
+          // 优先从 localStorage 获取用户设置
+          const savedTheme = localStorage.getItem(THEME_STORAGE_KEY);
+          if (savedTheme) {
+            return savedTheme;
+          }
+          
+          // 其次从系统偏好获取
+          if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+            return 'dark';
+          }
+
+          return 'light';
+        }
+
+        const theme = getCurrentTheme();
+        document.documentElement.setAttribute('data-theme', theme);
+        
+        // 添加一个类来标记主题已设置，用于 CSS 优化
+        document.documentElement.classList.add('theme-loaded');
+      })();
+    </script>
+
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -23,14 +51,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   </head>
 
   <body>
+    <!-- 跳过链接 -->
+    <a href="#main-content" class="skip-link">❤ To Main Content 跳转到主要内容</a>
 
     <div id="content-wrapper">
 
         {% include sidebar.html %}
 
-        <section id="main-content">
+        <main id="main-content">
           {{ content }}
-        </section>
+        </main>
 
     </div>
 
@@ -38,5 +68,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K288G7P9"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
+
+<!-- 主题切换脚本 -->
+<script src="{{ '/assets/js/theme-switcher.js' | relative_url }}"></script>
   </body>
 </html>

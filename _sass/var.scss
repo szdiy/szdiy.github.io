@@ -5,13 +5,33 @@ $base-font-color: #404040;
 // #main-content
 $header-color: #404040;
 
-$link-color: #2879d0;
-$link-hover-color: #2879d0;
+/* 黄色主题色系 */
+$primary-yellow: #FFB400;        // 金黄色 - 主要强调色
+$secondary-yellow: #FFA500;      // 橙色 - 次要强调色
+$accent-yellow: #FFC107;         // 琥珀色 - 装饰色
+$dark-yellow: #B8860B;           // 深金色 - 深色变体
+$light-yellow: #FFF8DC;          // 玉米丝色 - 浅色变体
+
+/* 链接颜色 */
+$link-color: #B8860B;            // 深金色作为链接色
+$link-hover-color: #FFB400;      // 金黄色作为悬停色
 
 $tree-line-color: #919191;
 
+/* 暗色模式颜色 */
+$dark-bg: #1a1a1a;
+$dark-text: #e0e0e0;
+$dark-text-light: #f0f0f0;
+$dark-text-muted: #d0d0d0;
+$dark-border: #404040;
+$dark-card-bg: #2d2d2d;
 
 /* 页面元素 */
 $sidebar-width: 260px;
 $sidebar-bg-color: #171717;
 $sidebar-color: #FDFDFB;
+
+/* 响应式断点 */
+$mobile-small: 479px;
+$mobile: 767px;
+$tablet: 959px;

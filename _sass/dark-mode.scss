@@ -1,0 +1,286 @@
+/* 防止页面加载时的闪烁 */
+html:not(.theme-loaded) #main-content {
+  transition: none !important;
+}
+
+html[data-theme="dark"] #main-content {
+  background-color: #1a1a1a !important;
+  color: #e0e0e0 !important;
+}
+
+html[data-theme="dark"] #main-content h1,
+html[data-theme="dark"] #main-content h2,
+html[data-theme="dark"] #main-content h3,
+html[data-theme="dark"] #main-content h4,
+html[data-theme="dark"] #main-content h5,
+html[data-theme="dark"] #main-content h6 {
+  color: #f0f0f0 !important;
+}
+
+html[data-theme="dark"] #main-content p {
+  color: #d0d0d0 !important;
+}
+
+html[data-theme="dark"] #main-content a {
+  color: #FFB400 !important;
+}
+
+/* Dark Mode 基础样式 */
+[data-theme="dark"] {
+  #main-content {
+    background-color: $dark-bg;
+    color: $dark-text;
+
+    h1, h2, h3, h4, h5, h6 {
+      color: $dark-text-light;
+    }
+
+    p {
+      color: $dark-text-muted;
+    }
+
+    a {
+      color: #FFB400;
+      
+      &:hover {
+        color: #FFD700;
+        text-shadow: 0 2px 8px rgba(255, 180, 0, 0.3);
+      }
+    }
+
+    code {
+      background-color: $dark-card-bg;
+      color: $primary-yellow;
+      border: 1px solid $dark-border;
+    }
+    
+    pre {
+      background-color: $dark-card-bg;
+      border: 1px solid $dark-border;
+      
+      code {
+        background-color: transparent;
+        border: none;
+        color: $primary-yellow;
+      }
+    }
+
+    blockquote {
+      background-color: $dark-card-bg;
+      border-left: 10px solid $primary-yellow;
+      color: $dark-text-muted;
+    }
+
+    ul, ol {
+      color: $dark-text-muted;
+    }
+
+    hr {
+      border-top: 1px solid $dark-border;
+    }
+
+    table {
+      background-color: $dark-card-bg;
+      color: $dark-text;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+    }
+    
+    th {
+      background: linear-gradient(135deg, #FFB400, #FFA500);
+      color: #fff;
+    }
+    
+    td {
+      color: $dark-text;
+      border-bottom: 1px solid $dark-border;
+      
+      &:hover {
+        background: rgba(255, 180, 0, 0.1);
+      }
+    }
+    
+    tr {
+      &:nth-child(even) {
+        background: rgba(255, 248, 220, 0.05);
+      }
+      
+      &:hover {
+        background: rgba(255, 180, 0, 0.08);
+      }
+    }
+
+    .meetup-table {
+      td:first-child {
+        color: $primary-yellow;
+      }
+      
+      td:nth-child(2) {
+        color: $dark-text-light;
+      }
+      
+      td:last-child {
+        color: $accent-yellow;
+      }
+    }
+
+    form {
+      background-color: $dark-card-bg;
+      border: 1px solid $dark-border;
+    }
+
+    img {
+      opacity: 0.9;
+      transition: opacity 0.3s ease;
+      
+      &:hover {
+        opacity: 1;
+      }
+    }
+    
+    /* 主页和历史页面图片样式 */
+    .home-photo img,
+    .history-photo img {
+      border-radius: 8px;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+      transition: all 0.3s ease;
+      
+      &:hover {
+        transform: scale(1.02);
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+        opacity: 1;
+      }
+    }
+
+    .member-list {
+      li {
+        background: $dark-card-bg;
+        border: 1px solid $dark-border;
+        color: $dark-text;
+        
+        &:hover {
+          background: lighten($dark-card-bg, 5%);
+          border-color: $primary-yellow;
+        }
+      }
+      
+      p {
+        color: $dark-text-muted;
+      }
+      
+      a {
+        color: $primary-yellow;
+        
+        &:hover {
+          color: #FFD700;
+        }
+      }
+      
+      .fa {
+        color: $primary-yellow;
+      }
+    }
+  }
+
+  iframe {
+    filter: invert(0.9) hue-rotate(180deg);
+    border-radius: 8px;
+  }
+}
+
+.site-link .theme-toggle {
+  background: none;
+  border: none;
+  padding: 0;
+  margin: 0;
+  width: auto;
+  height: auto;
+  box-shadow: none;
+  border-radius: 0;
+  display: flex;
+  align-items: center;
+  color: #aaa;
+  text-decoration: none;
+  transition: all 0.3s ease;
+  cursor: pointer;
+  font-size: inherit;
+  
+  &:hover {
+    color: #eee;
+    transform: none;
+    box-shadow: none;
+  }
+  
+  &:active {
+    transform: none;
+  }
+
+  &:focus {
+    outline: 2px solid $primary-yellow;
+    outline-offset: 2px;
+  }
+
+  .sun-icon {
+    display: block;
+    width: 15px;
+    height: 15px;
+    color: inherit;
+    transition: all 0.3s ease;
+    margin-right: 8px;
+  }
+
+  .moon-icon {
+    display: none;
+    width: 15px;
+    height: 15px;
+    color: inherit;
+    transition: all 0.3s ease;
+    margin-right: 8px;
+  }
+
+  .theme-toggle-text {
+    font-size: 13px;
+    line-height: 1;
+  }
+
+  [data-theme="dark"] & {
+    .sun-icon {
+      display: none;
+    }
+    
+    .moon-icon {
+      display: block;
+    }
+  }
+}
+
+@media (max-width: $mobile) {
+  .theme-toggle {
+    width: 35px;
+    height: 35px;
+    margin: 8px auto;
+    
+    .sun-icon,
+    .moon-icon {
+      width: 18px;
+      height: 18px;
+    }
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .theme-toggle {
+    transition: none;
+    
+    &:hover {
+      transform: none;
+    }
+    
+    &:active {
+      transform: none;
+    }
+  }
+  
+  [data-theme="dark"] #main-content {
+    animation: none;
+  }
+}

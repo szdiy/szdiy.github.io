@@ -1,0 +1,225 @@
+/* 链接交互动画样式 */
+
+/* 通用链接动画基础样式 */
+a {
+  position: relative;
+  transition: all 0.3s ease;
+  text-decoration: none;
+  
+  /* 为所有链接添加下划线动画 */
+  &::after {
+    content: '';
+    position: absolute;
+    width: 0;
+    height: 2px;
+    bottom: -2px;
+    left: 0;
+    background-color: currentColor;
+    transition: width 0.3s ease;
+  }
+  
+  /* 悬停时显示下划线 */
+  &:hover::after {
+    width: 100%;
+  }
+  
+  /* 悬停时的颜色变化 */
+  &:hover {
+    transform: translateY(-1px);
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* 点击时的反馈 */
+  &:active {
+    transform: translateY(0);
+    transition: transform 0.1s ease;
+  }
+}
+
+/* 侧边栏导航链接特殊样式 */
+#sidebar .nav a {
+  position: relative;
+  display: inline-block;
+  padding: 4px 0;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  
+  /* 移除默认的下划线动画，使用边框动画 */
+  &::after {
+    display: none;
+  }
+  
+  &::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -20px;
+    width: 0;
+    height: 100%;
+    background: linear-gradient(90deg, transparent, rgba(255, 215, 0, 0.2), transparent);
+    transition: width 0.3s ease;
+  }
+  
+  &:hover {
+    transform: translateX(5px);
+    text-shadow: 0 0 8px rgba(255, 215, 0, 0.5);
+    color: $primary-yellow;
+    
+    &::before {
+      width: calc(100% + 40px);
+    }
+  }
+  
+  &:active {
+    transform: translateX(3px);
+  }
+}
+
+/* 主内容区域链接样式 */
+#main-content a {
+  position: relative;
+  color: $link-color;
+  font-weight: 500;
+  transition: all 0.3s ease;
+  
+  &::after {
+    background: linear-gradient(90deg, $link-color, $dark-yellow);
+    height: 1px;
+    bottom: -1px;
+  }
+  
+  &:hover {
+    color: $link-hover-color;
+    transform: translateY(-1px);
+    text-shadow: 0 2px 8px rgba(255, 215, 0, 0.4);
+    
+    &::after {
+      background: linear-gradient(90deg, $primary-yellow, $secondary-yellow);
+    }
+  }
+}
+
+/* 页脚社交链接样式 */
+#sidebar footer .site-link a {
+  position: relative;
+  display: inline-block;
+  transition: all 0.3s ease;
+  
+  &::after {
+    background-color: #aaa;
+    height: 1px;
+    bottom: -1px;
+  }
+  
+  &:hover {
+    color: #eee;
+    transform: translateY(-2px);
+    text-shadow: 0 2px 4px rgba(170, 170, 170, 0.3);
+    
+    &::after {
+      background-color: #eee;
+    }
+  }
+}
+
+/* 特殊链接样式 - 外部链接 */
+a[href^="http"] {
+  color: #A0522D; // 深橙色，在白色背景上清晰可读
+  
+  &::after {
+    background: linear-gradient(90deg, #A0522D, $accent-yellow);
+  }
+  
+  &:hover {
+    color: $accent-yellow;
+    text-shadow: 0 2px 8px rgba(255, 140, 0, 0.4);
+    
+    &::after {
+      background: linear-gradient(90deg, $accent-yellow, $secondary-yellow);
+    }
+  }
+}
+
+/* 图片链接样式 */
+a img {
+  transition: all 0.3s ease;
+  border-radius: 4px;
+}
+
+a:hover img {
+  transform: scale(1.02);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+/* 按钮样式链接 */
+.button-link {
+  display: inline-block;
+  padding: 10px 20px;
+  background: linear-gradient(135deg, $link-color, $dark-yellow);
+  color: white;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 500;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  
+  &::after {
+    display: none;
+  }
+  
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(255, 215, 0, 0.4);
+    background: linear-gradient(135deg, $primary-yellow, $secondary-yellow);
+    color: #333;
+  }
+  
+  &:active {
+    transform: translateY(-1px);
+    box-shadow: 0 2px 6px rgba(255, 215, 0, 0.3);
+  }
+}
+
+/* 响应式设计 - 移动端优化 */
+@media (max-width: 768px) {
+  a {
+    /* 移动端减少动画强度 */
+    &:hover {
+      transform: none;
+      text-shadow: none;
+    }
+    
+    &::after {
+      height: 1px;
+    }
+  }
+  
+  #sidebar .nav a {
+    &:hover {
+      transform: translateX(2px);
+    }
+  }
+  
+  #main-content a {
+    &:hover {
+      transform: none;
+      text-shadow: none;
+    }
+  }
+}
+
+/* 减少动画偏好设置 */
+@media (prefers-reduced-motion: reduce) {
+  a {
+    transition: none;
+    
+    &::after,
+    &::before {
+      transition: none;
+    }
+    
+    &:hover {
+      transform: none;
+      text-shadow: none;
+    }
+  }
+}

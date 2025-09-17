@@ -1,3 +1,15 @@
+/* 导入动画样式 */
+@import "animations";
+
+/* 导入表格样式 */
+@import "table";
+
+/* 导入 dark 模式样式 */
+@import "dark-mode";
+
+/* 导入无障碍样式 */
+@import "accessibility";
+
 /* COMMON STYLES */
 body {
   font-family: $font-family;
@@ -12,17 +24,6 @@ body {
 p {
   margin-top: 20px;
   margin-bottom: 20px;
-  a {
-    font-weight: 400;
-    text-decoration: underline;
-  }
-}
-
-a {
-  color: $link-color;
-  &:hover {
-    color: $link-hover-color;
-  }
 }
 
 code, pre {
@@ -47,7 +48,7 @@ pre {
 }
 pre code {
   padding: 0;
-  color: #2879d0;
+  color: $link-color;
   background-color: #fff;
   border: none;
 }
@@ -61,21 +62,6 @@ hr {
   margin-bottom: 1em;
   border: 0;
   border-top: solid 1px #ddd;
-}
-
-table {
-  width: 100%;
-  border: 1px solid #ebebeb;
-}
-
-th {
-  font-weight: 500;
-}
-
-td {
-  font-weight: 300;
-  text-align: center;
-  border: 1px solid #ebebeb;
 }
 
 form {
@@ -136,7 +122,8 @@ header {
   cursor: pointer;
 
   &:hover {
-    border-color: #fff;
+    border-color: $primary-yellow;
+    box-shadow: 0 0 10px rgba(255, 215, 0, 0.3);
   }
 
   h1 {
@@ -172,15 +159,13 @@ aside#sidebar {
   a {
     text-decoration: none;
     color: $sidebar-color;
-    &:hover {
-      color: $sidebar-color;
-    }
   }
 
   .logo {
     display: block;
     width: 200px;
     height: 200px;
+    padding-bottom: 4px;
   }
 
   .nav {
@@ -189,9 +174,6 @@ aside#sidebar {
 
     a {
       border-bottom: 1px solid transparent;
-      &:hover, &:active {
-        border-bottom: 1px solid #fff;
-      }
     }
   }
 
@@ -202,11 +184,8 @@ aside#sidebar {
 
     .site-link {
       color: #aaa;
+      padding-top: 2px;
 
-      &:hover, &:hover a {
-        color: #eee;
-      }
-      
       .fa {
         width: 15px;
         text-align: center;
@@ -214,9 +193,6 @@ aside#sidebar {
 
       a {
         color: #aaa;
-        &:hover {
-          text-decoration: underline;
-        }
       }
     }
   }
@@ -301,6 +277,15 @@ aside#sidebar {
     background: #f8f8f8;
     padding: 10px;
     border-radius: 5px;
+    border: 1px solid transparent;
+    transition: all 0.3s ease;
+    
+    &:hover {
+      background: #f0f0f0;
+      border-color: #FFB400;
+      transform: translateY(-1px);
+      box-shadow: 0 2px 8px rgba(255, 180, 0, 0.2);
+    }
   }
 
   .fa {
@@ -315,6 +300,17 @@ aside#sidebar {
 .history-photo {
   margin: 20px 0 40px;
   
+  img {
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+    
+    &:hover {
+      transform: scale(1.02);
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    }
+  }
+  
   p {
     margin: 5px;
     font-weight: 500;
@@ -323,4 +319,15 @@ aside#sidebar {
 
 .home-photo {
   margin-top: 5px;
+  
+  img {
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+    
+    &:hover {
+      transform: scale(1.02);
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    }
+  }
 }

@@ -29,7 +29,7 @@ sidebar:
     - title: Projects 项目
       link: /projects
 
-    - title: Certificated Members 认证会员
+    - title: Members 认证会员
       link: /members
 
     - title: History 历史
@@ -43,7 +43,7 @@ sidebar:
 
 social:
   github: 
-    title: Github
+    title: GitHub
     link: https://github.com/szdiy
   flickr: 
     title: Flickr 
@@ -54,7 +54,7 @@ social:
   wechat: 
     title: "Wechat: szdiyorg"
   admin:
-    title: "Admin: szdiyadm[#]gmail.com"
+    title: "Admin: szdiyadm[at]gmail.com"
 
 plugins:
   - jekyll-loading-lazy

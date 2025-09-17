@@ -1,0 +1,66 @@
+/* 焦点样式优化 */
+*:focus {
+  outline: 2px solid $primary-yellow;
+  outline-offset: 2px;
+}
+
+/* 跳过链接 */
+.skip-link {
+  position: absolute;
+  top: -40px;
+  left: 6px;
+  background: $primary-yellow;
+  color: #000;
+  padding: 8px;
+  text-decoration: none;
+  border-radius: 4px;
+  z-index: 1000;
+  
+  &:focus {
+    top: 6px;
+  }
+}
+
+/* 高对比度模式支持 */
+@media (prefers-contrast: high) {
+  #main-content {
+    a {
+      text-decoration: underline;
+    }
+    
+    button, .theme-toggle {
+      border: 2px solid currentColor;
+    }
+  }
+}
+
+/* 减少动画偏好设置 */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+  
+  .theme-toggle:hover {
+    transform: none !important;
+  }
+}
+
+/* 打印样式优化 */
+@media print {
+  .theme-toggle,
+  .site-link:last-child {
+    display: none !important;
+  }
+  
+  #main-content {
+    background: white !important;
+    color: black !important;
+  }
+  
+  a {
+    color: black !important;
+    text-decoration: underline;
+  }
+}
