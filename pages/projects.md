@@ -19,7 +19,7 @@ permalink: projects
 * [Retro 1999](https://groups.google.com/g/szdiy/c/e9RQLofUMH0): Exhibits at Makerfaire 2023.
 * [深圳DIY Party Online Minetest](https://groups.google.com/g/szdiy/c/ruDcrQbFxks): Minetest.
 * [szdiy7thduino](https://sites.google.com/site/atommann2/szdiy-projects/szdiy7thduino?authuser=0): In celebration of the 7th anniversary of SZDIY's inception, a circuit board has been crafted.
-* [szdiyCam](https://github.com/szdiy/szdiyCam): An RPI camera in 深圳DIY Hackerspace.
+* [szdiyCam](https://github.com/szdiy/szdiyCam): An RPI camera in SZDIY Hackerspace.
 * [The Ultimate Hacking Matrix](https://groups.google.com/g/szdiy/c/Dh-xHqzdOTE): DIY keyboard.
 * [TODO](https://groups.google.com/g/szdiy/c/VhhY53n2LFQ): Terminal Style TODO Project.
 * [USBcablecracker](https://github.com/szdiy/USBcablecracker): USB Cable Cracker is a device that measures the resistance of USB cable.

@@ -9,12 +9,12 @@ permalink: participate
 
 申请加入邮件组的两种方法：
 
-* 发任意邮件到：szdiy+subscribe@googlegroups.com
-* 打开谷歌邮件组的链接：<https://groups.google.com/forum/#!forum/szdiy>
+* 发任意邮件到：[szdiy+subscribe@googlegroups.com](mailto:szdiy+subscribe@googlegroups.com)
+* 打开谷歌邮件组的链接：[https://groups.google.com/forum/#!forum/szdiy](https://groups.google.com/forum/#!forum/szdiy)
 
 There are two ways to join our mailing list:
-* Simply send an email to szdiy+subscribe@googlegroups.com
-* Open the following link to access our Google Groups page: https://groups.google.com/forum/#!forum/szdiy
+* Simply send an email to [szdiy+subscribe@googlegroups.com](mailto:szdiy+subscribe@googlegroups.com)
+* Open the following link to access our Google Groups page: [https://groups.google.com/forum/#!forum/szdiy](https://groups.google.com/forum/#!forum/szdiy)
 
 ## IRC
 
@@ -46,10 +46,10 @@ We hold regular meetups every Thursday, which are open to the public free of cha
 
 ## Topic Sharing 主题分享
 
-如果你有有趣的技术话题分享，可以发邮件给管理员：_szdiyadm@gmail.com_。  
-If you have intriguing technical topics to share, please feel free to contact the administrator via email at szdiyadm@gmail.com.
+如果你有有趣的技术话题分享，可以发邮件给管理员：_szdiyadm[at]gmail.com_。  
+If you have intriguing technical topics to share, please feel free to contact the administrator via email at _szdiyadm[at]gmail.com_.
 
 ## Certification Membership Application 申请会员
 
 如果你很喜欢我们的社区氛围、认同我们的社区文化，希望加入成为我们的认证会员，可以参看 [会员制度](/membership) 申请加入。  
-If you greatly enjoy the atmosphere of our community and align with our community culture, and wish to join us as a certified member, please refer to the membership system for information on how to apply.
+If you greatly enjoy the atmosphere of our community and align with our community culture, and wish to join us as a certified member, please refer to the [membership](/membership) system for information on how to apply.

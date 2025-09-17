@@ -5,7 +5,6 @@ permalink: members
 
 # Certificated Members 认证会员
 
-
 <div class="member-list" markdown="1">
 
  * Aaron Xu
@@ -95,7 +94,6 @@ permalink: members
 
 注：『__\*__』的为管理员。『__$__』为社区财务。
 <br/>Note: "__\*__" are administrators. "__$__" is our Finance Manager.
-
 
 # Honorable Members 荣誉会员
 
