@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" media="screen" type="text/css">
-    <link ref="stylesheet" href="{{ '/assets/css/font-awesome.min.css' | relative_url }}"  media="screen" type="text/css">
+    <link rel="stylesheet" href="{{ '/assets/css/font-awesome.min.css' | relative_url }}"  media="screen" type="text/css">
     <link rel="stylesheet" href="{{ '/assets/css/print.css' | relative_url }}" media="print" type="text/css">
 
     <!--[if lt IE 9]>
@@ -13,6 +13,31 @@
     <![endif]-->
 
     <title>{{ site.title | default: site.github.repository_name }}</title>
+
+    <style>
+      /* 防止暗色模式下的白色闪烁 */
+      html[data-theme="dark"] #main-content {
+        background-color: #1a1a1a !important;
+        color: #e0e0e0 !important;
+      }
+      
+      html[data-theme="dark"] #main-content h1,
+      html[data-theme="dark"] #main-content h2,
+      html[data-theme="dark"] #main-content h3,
+      html[data-theme="dark"] #main-content h4,
+      html[data-theme="dark"] #main-content h5,
+      html[data-theme="dark"] #main-content h6 {
+        color: #f0f0f0 !important;
+      }
+      
+      html[data-theme="dark"] #main-content p {
+        color: #d0d0d0 !important;
+      }
+      
+      html[data-theme="dark"] #main-content a {
+        color: #FFB400 !important;
+      }
+    </style>
 
     <script>
       (function() {
@@ -36,6 +61,9 @@
 
         const theme = getCurrentTheme();
         document.documentElement.setAttribute('data-theme', theme);
+        
+        // 添加一个类来标记主题已设置，用于CSS优化
+        document.documentElement.classList.add('theme-loaded');
       })();
     </script>
 

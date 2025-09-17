@@ -75,6 +75,9 @@
       // 如果已经设置了主题，只需要更新按钮状态
       updateToggleButton(currentTheme);
     }
+    
+    // 标记主题已完全加载
+    document.documentElement.classList.add('theme-loaded');
     watchSystemTheme();
   }
   

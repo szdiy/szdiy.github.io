@@ -1,3 +1,8 @@
+/* 防止页面加载时的闪烁 */
+html:not(.theme-loaded) #main-content {
+  transition: none !important;
+}
+
 /* Dark Mode 基础样式 */
 [data-theme="dark"] {
   #main-content {
@@ -212,19 +217,6 @@
       display: block;
     }
   }
-}
-
-@keyframes themeTransition {
-  from {
-    opacity: 0.8;
-  }
-  to {
-    opacity: 1;
-  }
-}
-
-[data-theme="dark"] #main-content {
-  animation: themeTransition 0.3s ease-in-out;
 }
 
 @media (max-width: 768px) {
