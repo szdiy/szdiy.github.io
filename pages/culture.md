@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: culture
+permalink: culture/
 ---
 
 # Culture 社区文化
