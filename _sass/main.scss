@@ -297,6 +297,17 @@ aside#sidebar {
 .history-photo {
   margin: 20px 0 40px;
   
+  img {
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+    
+    &:hover {
+      transform: scale(1.02);
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    }
+  }
+  
   p {
     margin: 5px;
     font-weight: 500;
@@ -305,4 +316,15 @@ aside#sidebar {
 
 .home-photo {
   margin-top: 5px;
+  
+  img {
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+    
+    &:hover {
+      transform: scale(1.02);
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    }
+  }
 }

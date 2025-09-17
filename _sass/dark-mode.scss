@@ -109,6 +109,20 @@
         opacity: 1;
       }
     }
+    
+    /* 主页和历史页面图片样式 */
+    .home-photo img,
+    .history-photo img {
+      border-radius: 8px;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+      transition: all 0.3s ease;
+      
+      &:hover {
+        transform: scale(1.02);
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+        opacity: 1;
+      }
+    }
 
     .member-list {
       li {
