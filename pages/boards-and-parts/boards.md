@@ -11,4 +11,4 @@ permalink: boards-and-parts/boards
 * Ardu2040M x 5pcs
 <https://www.wisdpi.com/products/ardu2040m-rp2040-arduino-style-dev-board>
 
-# Parts and supplies 零件和耗材清单
+# Parts and Supplies 零件和耗材清单
