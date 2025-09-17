@@ -55,13 +55,14 @@ a {
     left: -20px;
     width: 0;
     height: 100%;
-    background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.1), transparent);
+    background: linear-gradient(90deg, transparent, rgba(255, 215, 0, 0.2), transparent);
     transition: width 0.3s ease;
   }
   
   &:hover {
     transform: translateX(5px);
-    text-shadow: 0 0 8px rgba(255, 255, 255, 0.3);
+    text-shadow: 0 0 8px rgba(255, 215, 0, 0.5);
+    color: $primary-yellow;
     
     &::before {
       width: calc(100% + 40px);
@@ -81,15 +82,19 @@ a {
   transition: all 0.3s ease;
   
   &::after {
-    background: linear-gradient(90deg, $link-color, lighten($link-color, 20%));
+    background: linear-gradient(90deg, $link-color, $dark-yellow);
     height: 1px;
     bottom: -1px;
   }
   
   &:hover {
-    color: darken($link-color, 10%);
+    color: $link-hover-color;
     transform: translateY(-1px);
-    text-shadow: 0 2px 8px rgba(40, 121, 208, 0.2);
+    text-shadow: 0 2px 8px rgba(255, 215, 0, 0.4);
+    
+    &::after {
+      background: linear-gradient(90deg, $primary-yellow, $secondary-yellow);
+    }
   }
 }
 
@@ -118,13 +123,19 @@ a {
 
 /* 特殊链接样式 - 外部链接 */
 a[href^="http"] {
+  color: #A0522D; // 深橙色，在白色背景上清晰可读
+  
   &::after {
-    background: linear-gradient(90deg, #ff6b6b, #ff8e8e);
+    background: linear-gradient(90deg, #A0522D, $accent-yellow);
   }
   
   &:hover {
-    color: #ff6b6b;
-    text-shadow: 0 2px 8px rgba(255, 107, 107, 0.2);
+    color: $accent-yellow;
+    text-shadow: 0 2px 8px rgba(255, 140, 0, 0.4);
+    
+    &::after {
+      background: linear-gradient(90deg, $accent-yellow, $secondary-yellow);
+    }
   }
 }
 
@@ -143,7 +154,7 @@ a:hover img {
 .button-link {
   display: inline-block;
   padding: 10px 20px;
-  background: linear-gradient(135deg, $link-color, darken($link-color, 10%));
+  background: linear-gradient(135deg, $link-color, $dark-yellow);
   color: white;
   border-radius: 6px;
   text-decoration: none;
@@ -157,13 +168,14 @@ a:hover img {
   
   &:hover {
     transform: translateY(-2px);
-    box-shadow: 0 4px 12px rgba(40, 121, 208, 0.3);
-    background: linear-gradient(135deg, lighten($link-color, 5%), $link-color);
+    box-shadow: 0 4px 12px rgba(255, 215, 0, 0.4);
+    background: linear-gradient(135deg, $primary-yellow, $secondary-yellow);
+    color: #333;
   }
   
   &:active {
     transform: translateY(-1px);
-    box-shadow: 0 2px 6px rgba(40, 121, 208, 0.2);
+    box-shadow: 0 2px 6px rgba(255, 215, 0, 0.3);
   }
 }
 

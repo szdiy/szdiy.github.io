@@ -39,7 +39,7 @@ pre {
 }
 pre code {
   padding: 0;
-  color: #2879d0;
+  color: $link-color;
   background-color: #fff;
   border: none;
 }
@@ -128,7 +128,8 @@ header {
   cursor: pointer;
 
   &:hover {
-    border-color: #fff;
+    border-color: $primary-yellow;
+    box-shadow: 0 0 10px rgba(255, 215, 0, 0.3);
   }
 
   h1 {
