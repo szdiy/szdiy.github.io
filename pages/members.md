@@ -71,6 +71,9 @@ permalink: members
  * yanminge(颜民革)
  <br/><i class="fa fa-envelope-o"></i> [guojia198769@gmail.com](mailto:guojia198769@gmail.com)
 
+ * 郭亚超
+ <br/><i class="fa fa-envelope-o"></i> [465449536@qq.com](mailto:465449536@qq.com)
+
  * 焦成坤
  <br/><i class="fa fa-envelope-o"></i> [jiaochengkun@126.com](mailto:jiaochengkun@126.com)
 
