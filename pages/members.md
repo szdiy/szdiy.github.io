@@ -62,7 +62,7 @@ permalink: members
 
  * Tom
 
- * XiaoXi(小汐)
+ * _**XiaoXi(小汐)\***_
  <br/><i class="fa fa-home"></i> <https://soraharu.com/>
  <br/><i class="fa fa-github"></i> <https://github.com/yanranxiaoxi>
  <br/><i class="fa fa-github"></i> <https://gitlab.soraharu.com/XiaoXi>
