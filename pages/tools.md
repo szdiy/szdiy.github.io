@@ -5,7 +5,7 @@ permalink: tools
 
 # Tools 工具列表
 
-（仅开放给认证会员使用）  
+仅开放给认证会员使用  
 Exclusive for Certificated Members only
 
 * Digital Oscilloscopes 示波器 
@@ -20,3 +20,8 @@ Exclusive for Certificated Members only
 # Boards 开发板和零件
 
 [开发板和零件](boards-and-parts/boards)
+
+# Email 电子邮箱
+
+所有认证会员均可以获得以 `@szdiy.org` 结尾的专属电子邮箱，即使后期退出认证会员也可保留该邮箱。  
+All certified members can obtain a dedicated email ending with `@szdiy.org`. Even if they later cancel their certified membership, they can keep this email.
