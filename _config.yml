@@ -42,17 +42,20 @@ sidebar:
       link: /sponsors
 
 social:
-  github: 
+  github:
     title: GitHub
     link: https://github.com/szdiy
-  flickr: 
+  fediverse:
+    title: Social
+    link: https://szdiy.social/
+  gallery:
+    title: Gallery
+    link: https://gallery.szdiy.soraharu.com/
+  flickr:
     title: Flickr 
     link: https://www.flickr.com/photos/szdiy
-  snapchat:
-    title: Social
-    link: https://szdiy.social
-  wechat: 
-    title: "Wechat: szdiyorg"
+  wechat:
+    title: "WeChat: szdiyorg"
   admin:
     title: "Admin: szdiyadm[at]gmail.com"
 

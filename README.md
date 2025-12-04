@@ -32,5 +32,5 @@ macOS 用户如遇到 nokogiri 安装错误，请参考 [官方文档](http://ww
 ## 技术栈
 
 - **框架**: Jekyll
-- **主题**: [Architect](https://github.com/pages-themes/architect)
+- **主题**: [Architect](https://github.com/pages-themes/architect) + 小汐优化
 - **部署**: GitHub Pages
