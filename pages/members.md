@@ -29,8 +29,7 @@ permalink: members
  * DanDan Zhou(DD)
  <br/><i class="fa fa-envelope-o"></i> [blazing.forests@gmail.com](mailto:blazing.forests@gmail.com)
 
- * _**danfei(但非) \***_
- <br/><i class="fa fa-home"></i> <https://danfei.github.io/>
+ * _**dan(哥伦布) \***_
  <br/><i class="fa fa-envelope-o"></i> [df4vhehe@gmail.com](mailto:df4vhehe@gmail.com)
 
  * Dennis(曾哥)
