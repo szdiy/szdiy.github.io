@@ -71,5 +71,40 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <!-- 主题切换脚本 -->
 <script src="{{ '/assets/js/theme-switcher.js' | relative_url }}"></script>
+
+<!-- 奖项行自动识别脚本 -->
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    // 查找所有表格，找到含有"奖项"表头的表格
+    document.querySelectorAll('table').forEach(function(table) {
+      var headers = table.querySelectorAll('th');
+      var awardColIndex = -1;
+      headers.forEach(function(th, index) {
+        if (th.textContent.trim() === '奖项') {
+          awardColIndex = index;
+        }
+      });
+      if (awardColIndex === -1) return;
+
+      // 遍历表格行，找到奖项列有内容的行
+      table.querySelectorAll('tbody tr, tr').forEach(function(tr) {
+        var cells = tr.querySelectorAll('td');
+        if (cells.length > awardColIndex) {
+          var awardCell = cells[awardColIndex];
+          if (awardCell && awardCell.textContent.trim() !== '') {
+            tr.classList.add('award-row');
+            awardCell.classList.add('award-cell');
+            
+            // 检测是否为年度最受欢迎分享奖
+            if (awardCell.textContent.includes('年度最受欢迎')) {
+              tr.classList.add('top-award-row');
+              awardCell.classList.add('top-award-cell');
+            }
+          }
+        }
+      });
+    });
+  });
+</script>
   </body>
 </html>
