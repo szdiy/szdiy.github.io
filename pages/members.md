@@ -90,7 +90,7 @@ permalink: members
  <br/><i class="fa fa-envelope-o"></i> [xleven.ai@gmail.com](mailto:xleven.ai@gmail.com)
 
  * 王俊超
- <br/><i class="fa fa-home"></i> <https://space.bilibili.com/153882862?spm_id_from=333.1007.0.0>
+ <br/><i class="fa fa-home"></i> <https://space.bilibili.com/153882862>
  <br/><i class="fa fa-envelope-o"></i> [3201213313@qq.com](mailto:3201213313@qq.com)
 
  * 业超(超载)
