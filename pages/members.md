@@ -98,7 +98,7 @@ permalink: members
  <br/><i class="fa fa-envelope-o"></i> [charleslee.lyc@gmail.com](mailto:charleslee.lyc@gmail.com)
 
  * 周巍
-   
+ <br/><i class="fa fa-envelope-o"></i> [zwdiyzw@163.com](mailto:zwdiyzw@163.com)
 </div>
 
 注：『__\*__』的为管理员。『__$__』为社区财务。
