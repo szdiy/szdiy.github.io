@@ -73,6 +73,8 @@ permalink: members
  * 梵迪
  <br/><i class="fa fa-envelope-o"></i> [fandi@build8.com](mailto:fandi@build8.com)
 
+ * 方俊骅
+
  * 郭亚超
  <br/><i class="fa fa-envelope-o"></i> [465449536@qq.com](mailto:465449536@qq.com)
 
