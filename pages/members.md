@@ -47,10 +47,10 @@ permalink: members
  <br/><i class="fa fa-envelope-o"></i> [david.gl.pan@gmail.com](mailto:david.gl.pan@gmail.com)
 
  * Jiang jia
- Peter Jiang 江, TradingTaxer创始人<https://tradingtaxer.com> 软件技术咨询, 前Huawei & DJI.
- <br/><i class="fa fa-envelope-o"></i>[p@szdiy.org](mailto:p@szdiy.org)
+ <br/> Peter Jiang 江, TradingTaxer创始人<https://tradingtaxer.com> 软件技术咨询, 前Huawei & DJI.
+ <br/><i class="fa fa-envelope-o"></i> [p@szdiy.org](mailto:p@szdiy.org)
  <br/><i class="fa fa-github"></i> <https://bopjiang.github.io>
- <br/><i class="fa fa-twitter"></i>X(twitter): @bopjiang <https://x.com/bopjiang>
+ <br/><i class="fa fa-twitter"></i> @bopjiang <https://x.com/bopjiang>
 
  * Kevin Ning
  <br/><i class="fa fa-github"></i> <https://gapier.net/pnedfff>
