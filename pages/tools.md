@@ -16,6 +16,7 @@ Exclusive for Certificated Members only
   * Anycubic Wash 2.0 
 * FDM 3D Printer FDM 3D 打印机
   * MakerBot Cupcake CNC
+  * [Bambu Lab A2L](/printer)
 
 # Boards 开发板和零件
 
