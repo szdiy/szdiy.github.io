@@ -52,7 +52,7 @@ permalink: members
  <br/><i class="fa fa-github"></i> <https://bopjiang.github.io>
  <br/><i class="fa fa-twitter"></i> @bopjiang <https://x.com/bopjiang>
 
- * Kevin Ning
+ * Kevin Ning, 产业 AI 落地者 / Forward Deployed AI Engineer.
  <br/><i class="fa fa-github"></i> <https://1pro.men>
  <br/><i class="fa fa-envelope-o"></i> [pnedfff@gmail.com](mailto:pnedfff@gmail.com)
 
