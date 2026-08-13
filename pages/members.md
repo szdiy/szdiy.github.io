@@ -3,7 +3,7 @@ layout: page
 permalink: members
 ---
 
-# Certificated Members 认证会员
+# Certified Members 认证会员
 
 <div class="member-list" markdown="1">
 
@@ -104,9 +104,9 @@ permalink: members
 </div>
 
 注：『__\*__』的为管理员。『__$__』为社区财务。
-<br/>Note: "__\*__" are administrators. "__$__" is our Finance Manager.
+<br/>Note: "__\*__" are administrators. "__$__" indicates the Community Treasurer.
 
-# Honorable Members 荣誉会员
+# Honorary Members 荣誉会员
 
 <div class="member-list" markdown="1">
 Anders, Chris, Danny, Fonzie, Hao, Helen Tan, Kermit, Martin.Han, Michael Shieh, Mitch Davis, Nala Ginrut, Odeson, Rafael Lee, Rraion, Ryan Liang, Simon, terryoy, Xu, 吴海鹏, 邓耀桓, 马玲
