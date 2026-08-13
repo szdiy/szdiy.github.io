@@ -6,7 +6,7 @@ permalink: projects
 # Projects 项目
 
 * [Artanis](https://www.gnu.org/software/artanis/): A fast monolithic web-framework of Scheme.
-* [DIYduino](https://github.com/szdiy/DIYduino): The circuit uses DIP device, designed for beginners to learn to weld.
+* [DIYduino](https://github.com/szdiy/DIYduino): The circuit uses DIP device, designed to help beginners learn soldering.
 * [duo](https://sites.google.com/site/atommann2/szdiy-projects/project-duo?authuser=0): Smart Meter.
 * [Edmund(IRCBot)](https://groups.google.com/g/szdiy/c/xQJAhS14c5I): an IRC Robot served in #szdiy channel on freenode.net.
 * [eliug](https://github.com/szdiy/eliug): A smart irc bot written with GNU Guile-scheme.
