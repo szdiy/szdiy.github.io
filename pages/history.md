@@ -6,7 +6,7 @@ permalink: history
 # History 历史
 
 <div class="history-photo" markdown="block">
-![SZLUG Embeded Fan Meetup]({{ site.url }}/assets/images/20090301_szlug_embed-small.jpg)
+![SZLUG Embedded Enthusiasts Meetup]({{ site.url }}/assets/images/20090301_szlug_embed-small.jpg)
 
 SZDIY 诞生于 SZLUG，2009 年 3 月 1 日 SZLUG 嵌入式爱好者聚会。
 </div>
