@@ -6,7 +6,7 @@ permalink: tools
 # Tools 工具列表
 
 仅开放给认证会员使用  
-Exclusive for Certificated Members only
+For Certified Members Only
 
 * Digital Oscilloscopes 示波器 
   * Rigol DS1102E Bandwidth: 100 MHz, Channels: 2
