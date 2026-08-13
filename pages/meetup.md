@@ -5,12 +5,12 @@ permalink: meetup
 
 # Meetup 聚会
 
-## Topic Sharing 主题分享
+## Weekly Talks 主题分享
 
 - 每周四的固定聚会均会安排主题分享，请密切留意邮件组：[szdiy@googlegroups.com](https://groups.google.com/g/szdiy)。
 - 聚会日历：
-- The weekly gathering on Thursdays will always include a scheduled topic sharing session. Please make sure to closely monitor the email group at [szdiy@googlegroups.com](https://groups.google.com/g/szdiy) for updates.
-- Gathering calendar:
+- Our Thursday meetups usually feature a talk or sharing session. Check the mailing list for upcoming topics and updates.
+- Meetup Calendar:
 
 <iframe src="https://calendar.google.com/calendar/embed?src=1b1dd602b762014abe5ac8f1b8795549285a97dd8ef19c2358958a6adcfb8df5%40group.calendar.google.com&ctz=Asia%2FShanghai" style="border: 0" width="640" height="480" frameborder="0" scrolling="no"></iframe>
 
