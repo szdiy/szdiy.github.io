@@ -17,7 +17,7 @@ layout: default
 地图位置：[https://www.amap.com/place/B02F37WPFK](https://www.amap.com/place/B02F37WPFK)  
 9 号线粤海门地铁站 A 出口往西南方向走 300 米可达  
 Time: Every Thursday evening from 19:00 to 22:00.  
-Location: Building 314-E, Hong Kong University of Science and Technology, No. 9 Yuexing 1st Road, Nanshan District, Shenzhen.  
+Location: Building 314-E, HKUST Industry, Education and Research Building, No. 9 Yuexing 1st Road, Nanshan District, Shenzhen.  
 Map location: You can find the map location at [https://www.amap.com/place/B02F37WPFK](https://www.amap.com/place/B02F37WPFK).  
 To reach the venue, take Exit A at Yuehaimen Station on Line 9, then walk 300 meters southwest.
 
