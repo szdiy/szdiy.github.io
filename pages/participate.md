@@ -38,7 +38,7 @@ You can join our WeChat group by following our official account when attending o
 * Join: [szdiy.social](https://szdiy.social/)
 
 你可以在联邦宇宙中关注我们的发布账号，也可以直接加入我们的 [联邦宇宙节点](https://szdiy.social/)。  
-You can follow our public account in the Federal Universe, or you can directly join our [Federal Universe node](https://szdiy.social/).
+You can follow our public account in the Fediverse, or you can directly join our [Fediverse instance](https://szdiy.social/).
 
 ## Weekly Meetup 每周聚会
 
@@ -50,7 +50,7 @@ We hold regular meetups every Thursday, which are open to the public free of cha
 如果你有有趣的技术话题分享，可以发邮件给管理员：_szdiyadm[at]gmail.com_。  
 If you have intriguing technical topics to share, please feel free to contact the administrator via email at _szdiyadm[at]gmail.com_.
 
-## Certification Membership Application 申请会员
+## Apply for Certified Membership 申请会员
 
 如果你很喜欢我们的社区氛围、认同我们的社区文化，希望加入成为我们的认证会员，可以参看 [会员制度](/membership) 申请加入。  
 If you greatly enjoy the atmosphere of our community and align with our community culture, and wish to join us as a certified member, please refer to the [membership](/membership) system for information on how to apply.
