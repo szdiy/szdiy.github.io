@@ -7,7 +7,7 @@ permalink: intro
 
 深圳DIY（SZDIY）是一个自由软硬件社区，最初由来自 SZLUG（Shenzhen Linux User Group）的 Linux 爱好者于 2009 年创立。社区线上采用邮件列表和 IRC 交流想法，线下定期举办聚会来分享各自领域的知识、交流想法、协作推进项目。社区鼓励大家动手协作，解决日常生活中所遇到的实际问题。经历数年积累，社区沉淀下了不少原创 DIY 项目，同时凝聚了众多来自不同领域的技术人才，逐渐形成了『行胜于言』的社区文化。
 
-Shenzhen DIY Community (SZDIY) is a community for free software and hardware enthusiasts. It was initially founded in 2009 by Linux enthusiasts from SZLUG (Shenzhen Linux User Group). The community utilizes mailing lists and IRC for online idea exchange, while also organizing regular offline gatherings to share knowledge, exchange ideas, and collaborate on projects in various fields. SZDIY encourages hands-on collaboration to solve practical problems encountered in daily life. Over the years, the community has accumulated a wealth of original DIY projects and has attracted talented individuals from diverse domains, gradually fostering a culture that emphasizes action over mere words.
+Shenzhen DIY Community (SZDIY) is a community for free software and hardware enthusiasts. It was initially founded in 2009 by Linux enthusiasts from SZLUG (Shenzhen Linux User Group).Members exchange ideas online through the mailing list and IRC, and meet regularly in person to share knowledge and collaborate on projects. SZDIY encourages hands-on collaboration to solve practical problems encountered in daily life. Over the years, the community has created numerous original DIY projects and has attracted talented individuals from diverse domains, gradually fostering a culture that emphasizes action over mere words.
 
 ## Mission 使命
 
@@ -16,7 +16,7 @@ Shenzhen DIY Community (SZDIY) is a community for free software and hardware ent
 - 进步：社区强调不断学习和不断进步的态度和精神，鼓励参与者不断研究和尝试新技术和新方法，以创造更好的东西，并积极地探索和解决问题。
 - Freedom: The community encourages and supports the freedom of individual thought, expression, and action. The spirit of free software is also a crucial component, ensuring the freedom and privacy of users, while promoting the sharing and openness of technology.
 - Sharing: The community advocates for open and transparent collaboration and knowledge sharing. It fosters communication and information exchange among participants, providing opportunities for everyone to benefit and contribute.
-- Progress: The community emphasizes a continuous learning and progressive mindset. It encourages participants to explore and experiment with new technologies and approaches, striving to create better solutions while actively exploring and solving problems.
+- Progress: The community emphasizes a commitment to continuous learning and improvement. It encourages participants to explore and experiment with new technologies and approaches, encouraging members to experiment with new technologies, build better things, and solve real-world problems.
 
 ## Key Events 大事记
 
@@ -24,7 +24,7 @@ Shenzhen DIY Community (SZDIY) is a community for free software and hardware ent
 * 2011-08-11 柴火 MakerSpace 为 SZDIY 提供每周四晚的固定聚会场地（至 2014-04-08 为止）。
 * 2013-10-18 SZDIY 的首届 Hack42 Hackathon 在开放制造空间 Techspace 成功举办。
 * 2014-04-08 SZDIY Hackerspace 在白石洲工业区成立。
-* 2015-01-01 社区项目 Artanis 被接纳成为 GNU 官方项目，是 SZDIY 为自由软件运动的做出贡献之一。
+* 2015-01-01 社区项目 Artanis 被接纳成为 GNU 官方项目，是 SZDIY 为自由软件运动做出的贡献之一。
 * 2017-09-24 SZDIY 与 LAB ZERO (lab0x0) 联合举办 IOT Hackathon。
 * 2017-10-07 SZDIY Hackerspace 搬到科技园科苑西小区 33 栋 515 室。
 * 2019-04-19 SZDIY 成立 10 周年。
