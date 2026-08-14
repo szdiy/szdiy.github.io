@@ -104,7 +104,7 @@ permalink: members
 </div>
 
 注：『__\*__』的为管理员。『__$__』为社区财务。
-<br/>Note: "__\*__" are administrators. "__$__" indicates the Community Treasurer.
+<br/>Note: "__\*__" denotes administrators. "__$__" denotes the Community Treasurer.
 
 # Honorary Members 荣誉会员
 
