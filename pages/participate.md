@@ -48,7 +48,7 @@ We hold regular meetups every Thursday, which are open to the public free of cha
 ## Share a Topic 主题分享
 
 如果你有有趣的技术话题分享，可以发邮件给管理员：_szdiyadm[at]gmail.com_。  
-If you have intriguing technical topics to share, please feel free to contact the administrator via email at _szdiyadm[at]gmail.com_.
+If you have an interesting technical topic you'd like to share, feel free to contact us at _szdiyadm[at]gmail.com_.
 
 ## Apply for Certified Membership 申请会员
 
