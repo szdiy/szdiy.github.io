@@ -18,11 +18,11 @@ For Certified Members Only
   * MakerBot Cupcake CNC
   * [Bambu Lab A2L](/printer)
 
-# Boards 开发板和零件
+# Boards & Parts 开发板和零件
 
 [开发板和零件](boards-and-parts/boards)
 
 # Email 电子邮箱
 
 所有认证会员均可以获得以 `@szdiy.org` 结尾的专属电子邮箱，即使后期退出认证会员也可保留该邮箱。  
-All certified members can obtain a dedicated email ending with `@szdiy.org`. Even if they later cancel their certified membership, they can keep this email.
+All Certified Members are eligible for an `@szdiy.org` email address, which they may retain even after leaving Certified Membership.
