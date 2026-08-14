@@ -20,7 +20,7 @@ SZDIY 诞生于 SZLUG，2009 年 3 月 1 日 SZLUG 嵌入式爱好者聚会。
 <div class="history-photo" markdown="block">
 ![2012 Shenzhen Mini Maker Faire]({{ site.url }}/assets/images/20120408_szmf_mini-small.jpg)
 
-2012 年 4 月 8 日，SZDIY 参加 Shenzhen Mini MakerFaire。
+2012 年 4 月 8 日，SZDIY 参加 Shenzhen Mini Maker Faire。
 </div>
 
 <div class="history-photo" markdown="block">
