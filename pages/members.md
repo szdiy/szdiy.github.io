@@ -56,9 +56,11 @@ permalink: members
  <br/><i class="fa fa-github"></i> <https://1pro.men>
  <br/><i class="fa fa-envelope-o"></i> [pnedfff@gmail.com](mailto:pnedfff@gmail.com)
 
-  * _**Nathan $**_
+ * _**Nathan $**_
  <br/><i class="fa fa-github"></i> <https://github.com/lessonwill>
  <br/><i class="fa fa-envelope-o"></i> [lessonwill@gmail.com](mailto:lessonwill@gmail.com)
+
+ * Simon
 
  * Tailor(裁缝)
  <br/><i class="fa fa-envelope-o"></i> [wushixionga@sohu.com](mailto:wushixionga@sohu.com)
@@ -90,7 +92,9 @@ permalink: members
 
  * 李鸷(鸟哥)
  <br/><i class="fa fa-envelope-o"></i> [lz614@163.com](mailto:lz614@163.com)
-
+ 
+ * 山奈
+ 
  * 十一
  <br/><i class="fa fa-github"></i> <https://www.omnieleven.com>
  <br/><i class="fa fa-envelope-o"></i> [xleven.ai@gmail.com](mailto:xleven.ai@gmail.com)
@@ -109,5 +113,5 @@ permalink: members
 # Honorary Members 荣誉会员
 
 <div class="member-list" markdown="1">
-Anders, Chris, Danny, Fonzie, Hao, Helen Tan, Kermit, Martin.Han, Michael Shieh, Mitch Davis, Nala Ginrut, Odeson, Rafael Lee, Rraion, Ryan Liang, Simon, terryoy, Xu, 吴海鹏, 邓耀桓, 马玲
+Anders, Chris, Danny, Fonzie, Hao, Helen Tan, Kermit, Martin.Han, Michael Shieh, Mitch Davis, Nala Ginrut, Odeson, Rafael Lee, Rraion, Ryan Liang, terryoy, Xu, 吴海鹏, 邓耀桓, 马玲
 </div>
