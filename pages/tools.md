@@ -17,6 +17,9 @@ For Certified Members Only
 * FDM 3D Printer FDM 3D 打印机
   * MakerBot Cupcake CNC
   * [Bambu Lab A2L](/printer)
+ 
+* Robotic arm 机械臂 
+  * ONERO Robotic Arm A1 stand
 
 # Boards & Parts 开发板和零件
 
