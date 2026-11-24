@@ -9,11 +9,11 @@ permalink: tools
 For Certified Members Only
 
 * Available AI models 提供以下AI模型
- * deepseek-flash
- * deepseek-flash-uncensored-fp8
- * nemotron-3-ultra-550b-a55b
- * nemotron-3.5-lightning-30b-a3b
- * nemotron-3.5-super-vl-120b-a12b
+  * deepseek-flash
+  * deepseek-flash-uncensored-fp8
+  * nemotron-3-ultra-550b-a55b
+  * nemotron-3.5-lightning-30b-a3b
+  * nemotron-3.5-super-vl-120b-a12b
    
 * NAS 网络附加存储
   * 12th Gen Intel(R) Core(TM) i3-12100F 4核 8线程
